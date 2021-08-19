@@ -10,11 +10,11 @@
 #### 链接
 
 [Spigot](https://www.spigotmc.org/resources/prism.75166/) 后续维护者 Spigot 页面
-[Github](https://github.com/AddstarMC/Prism-Bukkit) 后续维护者 Github 仓库
-[Wiki](https://prism-bukkit.readthedocs.io/) 官方 Wiki
-[MCBBS](https://www.mcbbs.net/thread-1230654-1-1.html) 搬运贴。
-[Github](https://github.com/Rothes/Prism-Bukkit) 国内开发者的分支。
-[非官方Wiki](https://prism-cn.readthedocs.io/) 国内开发者汉化的文档。
+<br>[Github](https://github.com/AddstarMC/Prism-Bukkit) 后续维护者 Github 仓库
+<br>[Wiki](https://prism-bukkit.readthedocs.io/) 官方 Wiki
+<br>[MCBBS](https://www.mcbbs.net/thread-1230654-1-1.html) 搬运贴。
+<br>[Github](https://github.com/Rothes/Prism-Bukkit) 国内开发者的分支。
+<br>[非官方Wiki](https://prism-cn.readthedocs.io/) 国内开发者汉化的文档。
 
 ---
 

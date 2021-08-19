@@ -10,10 +10,10 @@
 #### 链接
 
 [Spigot](https://www.spigotmc.org/resources/68900/) 请在此处购买支持，代购的应当给你 Discord 链接。
-[Github](https://github.com/bloodmc/GriefDefender) 开源版本总会落后于最新版
-[Patreon](https://www.patreon.com/bloodmc) 如果你是群组，在这里购买高级支持。
-[Wiki](https://github.com/bloodmc/GriefDefender/wiki)
-[非官方Wiki](https://tartaros-gamer.github.io/griefDefenderDoc/) --- bloodshot 有意接管仓库但懒得写 Wiki
+<br>[Github](https://github.com/bloodmc/GriefDefender) 开源版本总会落后于最新版
+<br>[Patreon](https://www.patreon.com/bloodmc) 如果你是群组，在这里购买高级支持。
+<br>[Wiki](https://github.com/bloodmc/GriefDefender/wiki)
+<br>[非官方Wiki](https://tartaros-gamer.github.io/griefDefenderDoc/) --- bloodshot 有意接管仓库但懒得写 Wiki
 
 GD支持的插件详见：[GDHooks](https://github.com/bloodmc/GDHooks)
 
@@ -36,10 +36,13 @@ GD支持的插件详见：[GDHooks](https://github.com/bloodmc/GDHooks)
 其强大的标签系统允许您在  mod 有 bug 的情况下使用GD提供的高级标签 进行修复(集成并继承了来自硬依赖 LuckPerms 的情境系统，
 允许您在特定情境下读取 Mod 方块的 Meta 数据来进行权限操作)。
   
-&emsp;&emsp;而在用户友好性方面，其毫不逊色 UltimateClaim CrashClaim Residence 等一众领地插件，它完全依赖 聊天UI 进行操作，所有界面都已经被汉化(包括预置标签)。
+&emsp;&emsp;而在用户友好性方面，其毫不逊色 UltimateClaim CrashClaim Residence 等一众领地插件，
+它完全依赖 聊天UI 进行操作，所有界面都已经被汉化(包括预置标签)。
 <br>&emsp;&emsp;功能性上，它能比肩 FTBChunk 但在客制化方面又超越 FTBChunk，它的标签系统允许您用最基础的标签创建属于您自己的标签来客制化保护体验
 (您能指定高级标签所影响的对象，比如说让某个物体与某个玩家没有碰撞箱)，
 <br>&emsp;&emsp;在多样性方面，它支持领地的出租，出租后的领地租客挖掘领地内方块不会掉任何东西，而租期结束后领地又会自动复原。
 
-&emsp;&emsp;在插件的支持上，GDHooks 涵盖了市面上大部分常见商店插件及在线地图插件(Dynmap，Pl3xmap，Bluemap)，而对使用盔甲架的家具插件，我们更是直接挂钩家具库来识别家具类型，对 McMMO 的支持精确到了能否使用某个 Skill 。
-<br>&emsp;&emsp;我这里无法再赘述太多，它还支持同客户端mod CUI的协同来显示领地，Mysql Mariadb PostgreSQL 都可以作为存储数据的方式，唯一的不足就是 GD 必须依赖一个支持情境系统的插件来储存数据（到目前为止只支持 LuckPerms）。
+&emsp;&emsp;在插件的支持上，GDHooks 涵盖了市面上大部分常见商店插件及在线地图插件(Dynmap，Pl3xmap，Bluemap)，
+而对使用盔甲架的家具插件，我们更是直接挂钩家具库来识别家具类型，对 McMMO 的支持精确到了能否使用某个 Skill 。
+<br>&emsp;&emsp;我这里无法再赘述太多，它还支持同客户端mod CUI的协同来显示领地，Mysql Mariadb PostgreSQL 都可以作为存储数据的方式，
+唯一的不足就是 GD 必须依赖一个支持情境系统的插件来储存数据（到目前为止只支持 LuckPerms）。
