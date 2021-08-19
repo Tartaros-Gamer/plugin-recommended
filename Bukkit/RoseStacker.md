@@ -1,9 +1,9 @@
 ### 优化/功能性插件推荐 ① [RoseStacker] -- 一个性能友好功能丰富的堆叠插件
 
-**Bukkit | 开源 | 免费 | 内置汉化 | 开发者: Rosewood-Development**
+**Bukkit | 开源 | 免费 | 内置汉化 | 开发者：Rosewood-Development**
 
-& 支持版本：Bukkit 1.13-1.17.X
-& 社区评价: Spigot 42个评价 5星
+* 支持版本：Bukkit 1.13-1.17.X
+* 社区评价: Spigot 42个评价 5星
 
 编者: ahdg
 

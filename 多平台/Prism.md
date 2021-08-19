@@ -1,4 +1,4 @@
-### 多平台插件推荐 ① [GriefDefender] -- 支持混合端且功能丰富强大的领地插件。
+### 多平台插件推荐 ⑦ [Prism] -- 远胜 CoreProtect 的记录回滚插件。
 
 **Bukkit & Sponge | 开源 | 免费 | 内置汉化 | 有搬运 | 开发者: viveleroi(原作者)/AddstarMC(维护者)**
 
