@@ -3,7 +3,7 @@
 **Bungge & Velocity | 开源 | 付费获取支持 | 开发者：ajg0702**
 
 * 支持版本：Bungee  Velocity (3.0及以上)
-* 社区评价：Spigot Free+Premium 共 70 个评论 5星
+* 社区评价：![Free](https://img.shields.io/spiget/rating/78266?label=%E5%85%8D%E8%B4%B9%E7%89%88&style=flat-square) ![Premium](https://img.shields.io/spiget/rating/79123?label=%E4%BB%98%E8%B4%B9%E7%89%88&style=flat-square)
 
 编者：ahdg
 

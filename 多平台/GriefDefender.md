@@ -2,8 +2,8 @@
 
 **Bukkit & Sponge | 开源 | 付费获取支持 | 内置汉化 | 开发者: bloodshot**
 
-* 支持版本：Bukkit 1.8-1.16.5(2.0版本以前) Bukkit 1.12-1.17.X(2.0版本以后) Sponge 1.12.2(全版本)
-* 社区评价：Spigot 48个评价  | 购买量: 700+
+* 支持版本：![最新](https://img.shields.io/spiget/tested-versions/68900?label=2.0%E4%BB%A5%E4%B8%8A&style=flat-square) Bukkit 1.8-1.16.5(2.0版本以前)  Sponge 1.12.2(全版本)
+* 社区评价：![Spiget 评分](https://img.shields.io/spiget/rating/68900?label=Spigot%20%E8%AF%84%E5%88%86&style=flat-square)  | ![GitHub stars](https://img.shields.io/github/stars/bloodmc/GriefDefender?label=Github%20%E6%94%B6%E8%97%8F&style=flat-square) | 购买量: 700+
 
 编者：ahdg
 

@@ -2,8 +2,8 @@
 
 **Bukkit | 开源 | 免费 | 内置汉化 | 开发者：Rosewood-Development**
 
-* 支持版本：Bukkit 1.13-1.17.X
-* 社区评价: Spigot 42个评价 5星
+* 支持版本：![Bukkit](https://img.shields.io/spiget/tested-versions/82729?label=Bukkit)
+* 社区评价：![Spiget 评分](https://img.shields.io/spiget/rating/82729?label=Spigot%20%E8%AF%84%E5%88%86&style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Rosewood-Development/RoseStacker?label=GitHub%20stars&style=flat-square)
 
 编者: ahdg
 

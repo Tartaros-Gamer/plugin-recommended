@@ -2,8 +2,8 @@
 
 **Bukkit & Bungee & Velocity | 开源 | 免费 | 开发者：FrankHeijden**
 
-* 支持版本：Bukkit (1.8-1.17.X) Bungee  Velocity (3.0及以上)
-* 社区评价：Spigot 21个评论 5星
+* 支持版本：![Bukkit](https://img.shields.io/spiget/tested-versions/79599?label=Bukkit) Bungee  Velocity (3.0及以上)
+* 社区评价：![Spiget 评分](https://img.shields.io/spiget/rating/79599?label=Spigot%20%E8%AF%84%E5%88%86&style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/FrankHeijden/ServerUtils?label=GitHub%20stars&style=flat-square)
 
 编者：ahdg
 

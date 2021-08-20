@@ -3,7 +3,7 @@
 **Bukkit & Sponge & Bungee & Velocity | 开源 | 免费 | 开发者：FabioZumbi12**
 
 * 支持版本：Bukkit (1.7-1.17) Sponge(API 5 6 7 8) Velocity (1.x.x)
-* 社区评价：Spigot 44个评论 4.5星 | Sponge Ore 29个收藏
+* 社区评价：![Spiget 评分](https://img.shields.io/spiget/rating/23767?label=Spigot%20%E8%AF%84%E5%88%86&style=flat-square) ![Sponge](https://img.shields.io/ore/stars/ultimatechat?label=Sponge%20收藏&style=flat-square) ![Github Stars](https://img.shields.io/github/stars/FabioZumbi12/UltimateChat?label=GitHub%20stars&style=flat-square)
 
 编者：ahdg
 

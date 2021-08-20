@@ -2,8 +2,8 @@
 
 **Bukkit & Bungee & Velocty | 开源 | 免费 | 开发者：A248**
 
-* 支持版本：Bukkit(1.8-1.17.X) Bungge Velocity(3.0及以上)>
-* 社区评价：Spigot 8个评价 5星
+* 支持版本：![Bukkit](https://img.shields.io/spiget/tested-versions/81063?label=Bukkit) Bungge Velocity(3.0及以上)>
+* 社区评价：![Spiget 评分](https://img.shields.io/spiget/rating/81063?label=Spigot%20%E8%AF%84%E5%88%86&style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/A248/LibertyBans?label=GitHub%20stars&style=flat-square)
 
 编者：ahdg
 

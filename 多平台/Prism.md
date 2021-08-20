@@ -2,8 +2,8 @@
 
 **Bukkit & Sponge | 开源 | 免费 | 内置汉化 | 有搬运 | 开发者: viveleroi(原作者)/AddstarMC(维护者)**
 
-* 支持版本：Bukkit 1.8-1.12.2(老版本，不受支持，建议用CoreProtect) Bukkit 1.15及以上(新维护者) Sponge 1.12.2(原作者版本)
-* 社区评价：Spigot 20个评价 4.5星
+* 支持版本：![Bukkit](https://img.shields.io/spiget/tested-versions/75166?label=Bukkit) Bukkit 1.8-1.12.2(老版本，不受支持，建议用CoreProtect) Sponge 1.12.2(原作者版本)
+* 社区评价：![Spiget 评分](https://img.shields.io/spiget/rating/75166?label=Spigot%20%E8%AF%84%E5%88%86&style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/AddstarMC/Prism-Bukkit?label=GitHub%20stars&style=flat-square)
 
 编者：ahdg
 
@@ -30,8 +30,7 @@
 
 #### 简介
 
-&emsp;&emsp;Prism 作为一款记录回滚插件，从诞生之初便是开源的。相较于 CoreProtect，Prism 有着极为丰富的功能与自定义程度，它允许您完全汉化
-所有文本和指令，追踪多达 77 种行为，强大的架构允许您在回滚与搜索时添加极为复杂的条件，而 bloodshot 早期更是为其添加 MCPC+ 等 Hybrid 的兼容。
+&emsp;&emsp;Prism 作为一款记录回滚插件，从诞生之初便是开源的。相较于 CoreProtect，Prism 有着极为丰富的功能与自定义程度，它允许您完全汉化所有文本和指令，追踪多达 77 种行为，强大的架构允许您在回滚与搜索时添加极为复杂的条件，而 bloodshot 早期更是为其添加 MCPC+ 等 Hybrid 的兼容。
   
 &emsp;&emsp;而在性能方面，其毫不逊色于 CoreProtect 等插件，在测试中，它达到了超过 一亿 检索的数据库记录。在 Sponge 版中，由于支持 MongoDB，这个
 记录将不仅限于此。不同于 CoreProtect，它很少使用硬编码，一开始就开源注定着它的代码在社区中不断被捶打与磨砺，经过长久的迭代有着远超 CoreProtect
