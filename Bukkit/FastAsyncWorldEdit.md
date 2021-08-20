@@ -2,8 +2,8 @@
 
 **Bukkit&Sponge | 开源 | 免费 | 内置汉化 | 开发者: IntellectualSites**
 
-* 支持版本：Bukkit 1.8-1.17.X Sponge(1.12.2)
-* 社区评价: Spigot 42个评价 5星
+* 支持版本：![Bukkit](https://img.shields.io/spiget/tested-versions/13932?label=Bukkit) Sponge(1.12.2)
+* 社区评价：![Spiget 评分](https://img.shields.io/spiget/rating/13932?label=Spigot%20%E8%AF%84%E5%88%86&style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/IntellectualSites/FastAsyncWorldEdit?label=GitHub%20stars&style=flat-square)
 
 编者: ahdg
 

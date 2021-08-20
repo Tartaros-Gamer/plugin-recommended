@@ -2,8 +2,8 @@
 
 **Bukkit & Sponge & Forge & Fabric | 开源 | 免费 | 内置汉化 | 开发者：pop4959**
 
-* 支持版本：Bukkit (1.13-最新版) Sponge (1.12.2/1.16-1.17) Fabric (1.16.5/1.17.1) Forge(1.16.5)
-* 社区评价：Spigot 95个评价 5星
+* 支持版本：![Bukkit](https://img.shields.io/spiget/tested-versions/81534?label=Bukkit) Sponge (1.12.2/1.16-1.17) Fabric (1.16.5/1.17.1) Forge(1.16.5)
+* 社区评价：![Spiget 评分](https://img.shields.io/spiget/rating/81534?label=Spigot%20%E8%AF%84%E5%88%86&style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/pop4959/Chunky?label=GitHub%20stars&style=flat-square)
 
 编者：ahdg
 
