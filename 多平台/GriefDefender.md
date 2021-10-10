@@ -1,13 +1,18 @@
-### 多平台插件推荐 ① [GriefDefender] -- 支持混合端且功能丰富强大的领地插件。
+---
+title: ① GriefDefender
+icon: check
+category: 多平台插件
+tags: 领地
+---
+
+## GriefDefender -- 支持混合端且功能丰富强大的领地插件。
 
 **Bukkit & Sponge | 开源 | 付费获取支持 | 内置汉化 | 开发者: bloodshot**
 
 * 支持版本：![最新](https://img.shields.io/spiget/tested-versions/68900?label=2.0%E4%BB%A5%E4%B8%8A&style=flat-square) Bukkit 1.8-1.16.5(2.0版本以前)  Sponge 1.12.2(全版本)
 * 社区评价：![Spiget 评分](https://img.shields.io/spiget/rating/68900?label=Spigot%20%E8%AF%84%E5%88%86&style=flat-square)  | ![GitHub stars](https://img.shields.io/github/stars/bloodmc/GriefDefender?label=Github%20%E6%94%B6%E8%97%8F&style=flat-square) | 购买量: 700+
 
-编者：ahdg
-
-#### 链接
+### 链接
 
 [Spigot](https://www.spigotmc.org/resources/68900/) 请在此处购买支持，代购的应当给你 Discord 链接。
 <br>[Github](https://github.com/bloodmc/GriefDefender) 开源版本总会落后于最新版
@@ -19,7 +24,7 @@ GD支持的插件详见：[GDHooks](https://github.com/bloodmc/GDHooks)
 
 ---
 
-#### 背景
+### 背景
 
 &emsp;&emsp;GriefDefender 前身是 Sponge 版的 GriefPrevention，作为 Sponge 为数不多可用的领地插件存在。而现在，bloodmc 将他带到了 Bukkit 平台，
 我们很高兴能有幸目睹这一功能丰富的插件能在双平台上展现异样的光芒。
