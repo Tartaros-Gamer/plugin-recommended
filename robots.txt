@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://vuepress-theme-hope-demo.mrhope.site/plugin-recommended/sitemap.xml
+Sitemap: https://tartaros.fun/plugin-recommended/plugin-recommended/sitemap.xml
