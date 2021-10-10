@@ -73,6 +73,9 @@ module.exports = config({
       },
     },
 
-    pwa: false,
+    pwa: {
+      favicon: "/favicon.ico",
+      cachePic: true,
+    },
   },
 });
