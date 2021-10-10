@@ -32,9 +32,9 @@ module.exports = config({
 
   themeConfig: {
     logo: "/logo.png",
-    hostname: "https://vuepress-theme-hope-demo.mrhope.site",
+    hostname: "https://tartaros.fun/plugin-recommended/",
 
-    repo: "https://github.com/vuepress-theme-hope/vuepress-theme-hope",
+    repo: "https://github.com/Tartaros-Gamer/plugin-recommended",
 
     nav: require("../nav"),
 
@@ -44,13 +44,10 @@ module.exports = config({
 
     footer: {
       display: true,
-      content: "MIT 许可 | Tartaros 版权所有",
+      content: "MIT 许可 | Tartaros",
     },
 
-    comment: {
-      type: "waline",
-      serverURL: "https://vuepress-theme-hope-comment.vercel.app",
-    },
+    comment: false,
 
     copyright: {
       status: "global",
