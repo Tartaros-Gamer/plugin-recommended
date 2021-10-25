@@ -73,6 +73,7 @@ body:
       required: true
   
   - type: dropdown
+    id: self-write
     attributes:
       label: 您是否会自己写推荐文本？
       options:
