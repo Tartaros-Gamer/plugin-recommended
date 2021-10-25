@@ -48,6 +48,7 @@ body:
       required: true
       
   - type: dropdown
+    id: types
     attributes:
       label: 插件的性质
       description: 可多选

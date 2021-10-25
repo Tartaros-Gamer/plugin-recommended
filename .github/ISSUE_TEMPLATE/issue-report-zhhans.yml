@@ -20,6 +20,7 @@ body:
       required: true
       
   - type: input
+    id: way
     attributes:
       label: 问题类型
       description: 填写相关文本的问题，如作者自荐，商业宣传
@@ -27,6 +28,7 @@ body:
       required: true
             
   - type: input
+    id: solution
     attributes:
       label: 推荐的解决方案
       description: 如删除文章，修改错误
