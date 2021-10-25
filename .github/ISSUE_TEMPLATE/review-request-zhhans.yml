@@ -1,0 +1,82 @@
+name: ✨  推荐插件
+description: 将插件推荐给小组评定
+title: "[插件名称]："
+labels: ["request"]
+
+body:
+  - type: markdown
+    attributes:
+      value: >-
+        觉得某个插件很有价值却没有被得到很好的宣传？
+        <br>通过填写以下表格告诉我们，我们会尽快给予回复。
+        <br>内容要求语句通顺，描述清晰。
+  - type: input
+    id: name
+    attributes:
+      label: 插件名称
+      description: 您要投稿的插件名称
+    validations:
+      required: true
+
+  - type: input
+    id: introduce
+    attributes:
+      label: 简述插件的功能
+      description: >-
+        按功能性质来分，不要在这写推荐理由
+      placeholder: "示例：世界预生成插件，简约高效，功能丰富，支持多个不同的平台。"
+    validations:
+      required: true
+      
+  - type: checkboxes
+    id: check
+    attributes:
+      label: 请确认您已完成以下几件事
+      options:
+        - label: 我已检查没有重复的插件推荐
+          required: true
+        - label: 我确定该插件仍处于积极维护的状态
+          required: true
+    
+  - type: input
+    id: version
+    attributes:
+      label: 支持的平台及版本
+      description: 插件推荐对平台一向宽容，哪怕是 Fabric 服务端 Mod 也可以
+      placeholder: "示例：Bukkit(1.16.5) | Sponge API 8"
+    validations:
+      required: true
+      
+  - type: dropdown
+    attributes:
+      label: 插件的性质
+      description: 可多选
+      options:
+        - "开源"
+        - "免费"
+        - "付费"
+        - "国创"
+        - "重制"
+      multiple: true
+    validations:
+      required: true     
+      
+  - type: textarea
+    id: description
+    attributes:
+      label: 推荐理由
+      description: >-
+        请尽可能详细。对于描述，请假设我们不知道插件的应用情境。尽可能的突出特点。
+      placeholder: "插件的优势"
+    validations:
+      required: true
+  
+  - type: dropdown
+    attributes:
+      label: 您是否会自己写推荐文本？
+      options:
+        - "是，评审通过后我会自己写"
+        - "否，由小组代我书写推荐内容"
+        - "我已经写好了，就等评审了"
+    validations:
+      required: true

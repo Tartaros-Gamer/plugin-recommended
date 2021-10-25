@@ -1,0 +1,42 @@
+name: 🐞 缺漏报告表格
+description: 通过填写表格来指出插件推荐的疏漏
+title: "[错误报告]："
+labels: ["report"]
+
+body:
+  - type: markdown
+    attributes:
+      value: >-
+        在进行错误报告之前，请确保没有类似的已存报告。
+        <br>时刻注意插件推荐是社区项目，任何商业行为都是 0 容忍的。
+        <br>务必注意！请完整填写以下内容，如果缺少或不够详细可能会让该报告处理优先级降低甚至不处理！
+        <br>最后，感谢您耐心地向我们报告错误。        
+  - type: input
+    id: version
+    attributes:
+      label: 要纠错的文章
+      description: 填写插件名称
+    validations:
+      required: true
+      
+  - type: input
+    attributes:
+      label: 问题类型
+      description: 填写相关文本的问题，如作者自荐，商业宣传
+    validations:
+      required: true
+            
+  - type: input
+    attributes:
+      label: 推荐的解决方案
+      description: 如删除文章，修改错误
+    validations:
+      required: true
+      
+  - type: textarea
+    id: logs
+    attributes:
+      label: 描述
+      description: >-
+        涉及商业行为的推荐行为请给出相关证据
+        <br>对于不符合事实的文本请给予纠正
