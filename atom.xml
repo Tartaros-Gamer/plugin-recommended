@@ -3,7 +3,7 @@
   <id>https://tartaros.fun/plugin-recommended/plugin-recommended/</id>
   <title>Minecraft 插件推荐</title>
   <subtitle>Minecraft 插件推荐</subtitle>
-  <updated>2021-10-30T10:56:11.847Z</updated>
+  <updated>2021-10-30T11:00:23.347Z</updated>
   <generator>@mr-hope/vuepress-plugin-feed</generator>
   <link rel="self" href="https://tartaros.fun/plugin-recommended/plugin-recommended/atom.xml"/>
   <link rel="alternate" href="https://tartaros.fun/plugin-recommended/plugin-recommended/"/>
@@ -13,7 +13,7 @@
     <title type="html">FastAsyncWorldEdit</title>
     <id>https://tartaros.fun/plugin-recommended/plugin-recommended/Bukkit/FastAsyncWorldEdit/</id>
     <link href="https://tartaros.fun/plugin-recommended/plugin-recommended/Bukkit/FastAsyncWorldEdit/"/>
-    <updated>2021-10-30T10:55:43.000Z</updated>
+    <updated>2021-10-30T10:59:45.000Z</updated>
     <content type="html"><![CDATA[<h2 id="fastasyncworldedit-针对-worldedit-的高性能改良"> FastAsyncWorldEdit -- 针对 WorldEdit 的高性能改良</h2>
 <p><strong>Bukkit&amp;Sponge | 开源 | 免费 | 内置汉化 | 开发者: IntellectualSites</strong></p>
 <ul>
@@ -42,13 +42,13 @@
     <contributor>
       <name/>
     </contributor>
-    <published>2021-10-30T10:55:43.000Z</published>
+    <published>2021-10-30T10:59:45.000Z</published>
   </entry>
   <entry>
     <title type="html">RoseStacker</title>
     <id>https://tartaros.fun/plugin-recommended/plugin-recommended/Bukkit/RoseStacker/</id>
     <link href="https://tartaros.fun/plugin-recommended/plugin-recommended/Bukkit/RoseStacker/"/>
-    <updated>2021-10-30T10:55:43.000Z</updated>
+    <updated>2021-10-30T10:59:45.000Z</updated>
     <content type="html"><![CDATA[<h2 id="rosestacker-一个性能友好功能丰富的堆叠插件"> RoseStacker -- 一个性能友好功能丰富的堆叠插件</h2>
 <p><strong>Bukkit | 开源 | 免费 | 内置汉化 | 开发者：Rosewood-Development</strong></p>
 <ul>
@@ -73,23 +73,23 @@
     <contributor>
       <name/>
     </contributor>
-    <published>2021-10-30T10:55:43.000Z</published>
+    <published>2021-10-30T10:59:45.000Z</published>
   </entry>
   <entry>
     <title type="html">MC 插件推荐</title>
     <id>https://tartaros.fun/plugin-recommended/plugin-recommended/</id>
     <link href="https://tartaros.fun/plugin-recommended/plugin-recommended/"/>
-    <updated>2021-10-30T10:55:43.000Z</updated>
+    <updated>2021-10-30T10:59:45.000Z</updated>
     <contributor>
       <name/>
     </contributor>
-    <published>2021-10-30T10:55:43.000Z</published>
+    <published>2021-10-30T10:59:45.000Z</published>
   </entry>
   <entry>
     <title type="html">投稿指北</title>
     <id>https://tartaros.fun/plugin-recommended/plugin-recommended/contribution/</id>
     <link href="https://tartaros.fun/plugin-recommended/plugin-recommended/contribution/"/>
-    <updated>2021-10-30T10:55:43.000Z</updated>
+    <updated>2021-10-30T10:59:45.000Z</updated>
     <content type="html"><![CDATA[<div><p>相关信息</p>
 <p>投稿前请通过 <a href="https://github.com/Tartaros-Gamer/plugin-recommended/issues/new?template=review-request-zhhans.yml" target="_blank" rel="noopener noreferrer">Github Issue</a> 先提交一个表单，以供预审核，避免您写的东西功归一溃。</p>
 </div>
@@ -154,13 +154,13 @@
     <contributor>
       <name/>
     </contributor>
-    <published>2021-10-30T10:55:43.000Z</published>
+    <published>2021-10-30T10:59:45.000Z</published>
   </entry>
   <entry>
     <title type="html">目录</title>
     <id>https://tartaros.fun/plugin-recommended/plugin-recommended/home/</id>
     <link href="https://tartaros.fun/plugin-recommended/plugin-recommended/home/"/>
-    <updated>2021-10-30T10:55:43.000Z</updated>
+    <updated>2021-10-30T10:59:45.000Z</updated>
     <content type="html"><![CDATA[<h2 id="须知"> 须知</h2>
 <ul>
 <li>这是插件推荐的网页版，源仓库 <a href="https://github.com/Tartaros-Gamer/plugin-recommended" target="_blank" rel="noopener noreferrer">plugin-recommended</a>。</li>
@@ -257,26 +257,26 @@
     <contributor>
       <name/>
     </contributor>
-    <published>2021-10-30T10:55:43.000Z</published>
+    <published>2021-10-30T10:59:45.000Z</published>
   </entry>
   <entry>
     <title type="html">Intro Page</title>
     <id>https://tartaros.fun/plugin-recommended/plugin-recommended/intro/</id>
     <link href="https://tartaros.fun/plugin-recommended/plugin-recommended/intro/"/>
-    <updated>2021-10-30T10:55:43.000Z</updated>
+    <updated>2021-10-30T10:59:45.000Z</updated>
     <content type="html"><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content>
     <contributor>
       <name/>
     </contributor>
-    <published>2021-10-30T10:55:43.000Z</published>
+    <published>2021-10-30T10:59:45.000Z</published>
   </entry>
   <entry>
     <title type="html">项目介绍</title>
     <id>https://tartaros.fun/plugin-recommended/plugin-recommended/introduction/</id>
     <link href="https://tartaros.fun/plugin-recommended/plugin-recommended/introduction/"/>
-    <updated>2021-10-30T10:55:43.000Z</updated>
+    <updated>2021-10-30T10:59:45.000Z</updated>
     <content type="html"><![CDATA[<h3 id="简介"> 简介</h3>
 <p>Minecraft 优质插件推荐 (以下简称 &quot;插件推荐&quot;) 是社区发起并由插件版收录的公益项目，指向国内用户推送一些经过实际使用并严格挑选的优质插件，以促进 MCBBS 插件板氛围的良性化发展。</p>
 <p>插件推荐收录范围十分广泛且部分插件站内可能不会有搬运贴或详尽的介绍与使用教程，因此阅读者需具备一定的英语水平和相关知识。</p>
@@ -298,25 +298,25 @@
     <contributor>
       <name/>
     </contributor>
-    <published>2021-10-30T10:55:43.000Z</published>
+    <published>2021-10-30T10:59:45.000Z</published>
   </entry>
   <entry>
     <title type="html">Slide page</title>
     <id>https://tartaros.fun/plugin-recommended/plugin-recommended/slides/</id>
     <link href="https://tartaros.fun/plugin-recommended/plugin-recommended/slides/"/>
-    <updated>2021-10-30T10:55:43.000Z</updated>
+    <updated>2021-10-30T10:59:45.000Z</updated>
     <content type="html"><![CDATA[
 <i>Not supported content</i>]]></content>
     <contributor>
       <name/>
     </contributor>
-    <published>2021-10-30T10:55:43.000Z</published>
+    <published>2021-10-30T10:59:45.000Z</published>
   </entry>
   <entry>
     <title type="html">Chunky</title>
     <id>https://tartaros.fun/plugin-recommended/plugin-recommended/%E5%A4%9A%E5%B9%B3%E5%8F%B0/Chunky/</id>
     <link href="https://tartaros.fun/plugin-recommended/plugin-recommended/%E5%A4%9A%E5%B9%B3%E5%8F%B0/Chunky/"/>
-    <updated>2021-10-30T10:55:43.000Z</updated>
+    <updated>2021-10-30T10:59:45.000Z</updated>
     <content type="html"><![CDATA[<h2 id="chunky-世界预生成插件-简单高效-功能合理-支持平台丰富。"> Chunky -- <strong>世界预生成插件</strong>，简单高效，功能合理，支持平台丰富。</h2>
 <p><strong>Bukkit &amp; Sponge &amp; Forge &amp; Fabric | 开源 | 免费 | 内置汉化 | 开发者：pop4959</strong></p>
 <ul>
@@ -334,13 +334,13 @@
     <contributor>
       <name/>
     </contributor>
-    <published>2021-10-30T10:55:43.000Z</published>
+    <published>2021-10-30T10:59:45.000Z</published>
   </entry>
   <entry>
     <title type="html">GriefDefender</title>
     <id>https://tartaros.fun/plugin-recommended/plugin-recommended/%E5%A4%9A%E5%B9%B3%E5%8F%B0/GriefDefender/</id>
     <link href="https://tartaros.fun/plugin-recommended/plugin-recommended/%E5%A4%9A%E5%B9%B3%E5%8F%B0/GriefDefender/"/>
-    <updated>2021-10-30T10:55:43.000Z</updated>
+    <updated>2021-10-30T10:59:45.000Z</updated>
     <content type="html"><![CDATA[<h3 id="多平台插件推荐-griefdefender-支持混合端且功能丰富强大的领地插件。"> 多平台插件推荐 [GriefDefender] -- 支持混合端且功能丰富强大的领地插件。</h3>
 <p><strong>Bukkit &amp; Sponge | 开源 | 付费获取支持 | 内置汉化 | 开发者: bloodshot</strong></p>
 <ul>
@@ -387,13 +387,13 @@
     <contributor>
       <name/>
     </contributor>
-    <published>2021-10-30T10:55:43.000Z</published>
+    <published>2021-10-30T10:59:45.000Z</published>
   </entry>
   <entry>
     <title type="html">LibertyBans</title>
     <id>https://tartaros.fun/plugin-recommended/plugin-recommended/%E5%A4%9A%E5%B9%B3%E5%8F%B0/LibertyBans/</id>
     <link href="https://tartaros.fun/plugin-recommended/plugin-recommended/%E5%A4%9A%E5%B9%B3%E5%8F%B0/LibertyBans/"/>
-    <updated>2021-10-30T10:55:43.000Z</updated>
+    <updated>2021-10-30T10:59:45.000Z</updated>
     <content type="html"><![CDATA[<h2 id="libertybans-封禁插件-简约设计-性能优异-轻量高效。"> LibertyBans -- <strong>封禁插件</strong>，简约设计，性能优异，轻量高效。</h2>
 <p><strong>Bukkit &amp; Bungee &amp; Velocty | 开源 | 免费 | 开发者：A248</strong></p>
 <ul>
@@ -411,13 +411,13 @@
     <contributor>
       <name/>
     </contributor>
-    <published>2021-10-30T10:55:43.000Z</published>
+    <published>2021-10-30T10:59:45.000Z</published>
   </entry>
   <entry>
     <title type="html">Prism</title>
     <id>https://tartaros.fun/plugin-recommended/plugin-recommended/%E5%A4%9A%E5%B9%B3%E5%8F%B0/Prism/</id>
     <link href="https://tartaros.fun/plugin-recommended/plugin-recommended/%E5%A4%9A%E5%B9%B3%E5%8F%B0/Prism/"/>
-    <updated>2021-10-30T10:55:43.000Z</updated>
+    <updated>2021-10-30T10:59:45.000Z</updated>
     <content type="html"><![CDATA[<h2 id="prism-历史久远的记录回滚插件。"> Prism -- 历史久远的记录回滚插件。</h2>
 <p><strong>Bukkit &amp; Sponge | 开源 | 免费 | 内置汉化 | 有搬运 | 开发者: viveleroi(原作者)/AddstarMC(维护者)</strong></p>
 <ul>
@@ -451,13 +451,13 @@
     <contributor>
       <name/>
     </contributor>
-    <published>2021-10-30T10:55:43.000Z</published>
+    <published>2021-10-30T10:59:45.000Z</published>
   </entry>
   <entry>
     <title type="html">ServerUtils</title>
     <id>https://tartaros.fun/plugin-recommended/plugin-recommended/%E5%A4%9A%E5%B9%B3%E5%8F%B0/ServerUtils/</id>
     <link href="https://tartaros.fun/plugin-recommended/plugin-recommended/%E5%A4%9A%E5%B9%B3%E5%8F%B0/ServerUtils/"/>
-    <updated>2021-10-30T10:55:43.000Z</updated>
+    <updated>2021-10-30T10:59:45.000Z</updated>
     <content type="html"><![CDATA[<h2 id="serverutils-plugman-理念的继承与延展。"> ServerUtils -- Plugman 理念的继承与延展。</h2>
 <p><strong>Bukkit &amp; Bungee &amp; Velocity | 开源 | 免费 | 开发者：FrankHeijden</strong></p>
 <ul>
@@ -475,13 +475,13 @@
     <contributor>
       <name/>
     </contributor>
-    <published>2021-10-30T10:55:43.000Z</published>
+    <published>2021-10-30T10:59:45.000Z</published>
   </entry>
   <entry>
     <title type="html">UltimateChat</title>
     <id>https://tartaros.fun/plugin-recommended/plugin-recommended/%E5%A4%9A%E5%B9%B3%E5%8F%B0/UltimateChat/</id>
     <link href="https://tartaros.fun/plugin-recommended/plugin-recommended/%E5%A4%9A%E5%B9%B3%E5%8F%B0/UltimateChat/"/>
-    <updated>2021-10-30T10:55:43.000Z</updated>
+    <updated>2021-10-30T10:59:45.000Z</updated>
     <content type="html"><![CDATA[<h2 id="ultimatechat-多平台支持的json聊天插件。"> UltimateChat -- 多平台支持的json聊天插件。</h2>
 <p><strong>Bukkit &amp; Sponge &amp; Bungee &amp; Velocity | 开源 | 免费 | 开发者：FabioZumbi12</strong></p>
 <ul>
@@ -499,13 +499,13 @@
     <contributor>
       <name/>
     </contributor>
-    <published>2021-10-30T10:55:43.000Z</published>
+    <published>2021-10-30T10:59:45.000Z</published>
   </entry>
   <entry>
     <title type="html">ajQueue</title>
     <id>https://tartaros.fun/plugin-recommended/plugin-recommended/%E5%A4%9A%E5%B9%B3%E5%8F%B0/ajQueue/</id>
     <link href="https://tartaros.fun/plugin-recommended/plugin-recommended/%E5%A4%9A%E5%B9%B3%E5%8F%B0/ajQueue/"/>
-    <updated>2021-10-30T10:55:43.000Z</updated>
+    <updated>2021-10-30T10:59:45.000Z</updated>
     <content type="html"><![CDATA[<h2 id="ajqueue-为群组服添加类队列的功能。"> ajQueue -- 为群组服添加类队列的功能。</h2>
 <p><strong>Bungge &amp; Velocity | 开源 | 付费获取支持 | 开发者：ajg0702</strong></p>
 <ul>
@@ -523,13 +523,13 @@
     <contributor>
       <name/>
     </contributor>
-    <published>2021-10-30T10:55:43.000Z</published>
+    <published>2021-10-30T10:59:45.000Z</published>
   </entry>
   <entry>
     <title type="html">导言</title>
     <id>https://tartaros.fun/plugin-recommended/plugin-recommended/%E9%A1%B9%E7%9B%AE%E7%AE%80%E4%BB%8B/</id>
     <link href="https://tartaros.fun/plugin-recommended/plugin-recommended/%E9%A1%B9%E7%9B%AE%E7%AE%80%E4%BB%8B/"/>
-    <updated>2021-10-30T10:55:43.000Z</updated>
+    <updated>2021-10-30T10:59:45.000Z</updated>
     <content type="html"><![CDATA[<h3 id="导言"> 导言</h3>
 <hr>
 <p>面对浩如烟海的 Minecraft 插件社区，您是否曾举足无措，面对插件的选择无从下手？</p>
@@ -581,6 +581,6 @@ MailMe ② [完全付费] —— 一个功能多样的邮箱插件。</p>
     <contributor>
       <name/>
     </contributor>
-    <published>2021-10-30T10:55:43.000Z</published>
+    <published>2021-10-30T10:59:45.000Z</published>
   </entry>
 </feed>
