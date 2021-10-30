@@ -16,11 +16,11 @@ action:
 features:
   - title: 通过功能平台tag分类 ✨
     details: 快速检索
-    link: ./tag/
+    link: https://tartaros.fun/plugin-recommended/tag/
 	
   - title: 投稿通道 📝
     details: 向我们的仓库提交 PR，经审定后将有机会出现在 mcbbs
-    link: ./contribution
+    link: https://tartaros.fun/plugin-recommended/contribution
 
   - title: 分发许可 💬
     details: 基于 Attribution-ShareAlike CC BY-SA 4.0 分发，投稿者和转载者必看。
