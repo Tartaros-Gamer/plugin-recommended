@@ -1,8 +1,14 @@
 ---
-title: ② Chunky
+title: Chunky
 icon: add
 category: 多平台插件
-tags: 预生成
+tags: 
+  - Bukkit
+  - Sponge
+  - Forge
+  - Fabric
+  - 世界管理
+  - 预生成
 ---
 
 ## Chunky -- **世界预生成插件**，简单高效，功能合理，支持平台丰富。

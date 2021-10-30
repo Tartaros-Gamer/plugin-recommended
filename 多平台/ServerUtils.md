@@ -1,8 +1,12 @@
 ---
-title: ④ ServerUtils
+title: ServerUtils
 icon: operate
 category: 多平台插件
-tags: 插件管理
+tags:
+  - Bukkit
+  - Bungee
+  - Velocity  
+  - 插件管理
 ---
 
 ## ServerUtils -- Plugman 理念的继承与延展。

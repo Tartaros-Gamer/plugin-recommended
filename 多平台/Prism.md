@@ -1,8 +1,12 @@
 ---
-title: ⑦ Prism
+title: Prism
 icon: command
 category: 多平台插件
-tags: 服务器保护
+tags:
+  - Bukkit
+  - Sponge
+  - 回滚  
+  - 服务器保护
 ---
 
 ## Prism -- 历史久远的记录回滚插件。

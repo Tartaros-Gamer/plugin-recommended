@@ -1,8 +1,11 @@
 ---
-title: ① RoseStacker
+title: RoseStacker
 icon: stack
 category: Bukkit 系
-tags: 功能性插件
+tags: 
+  - Bukkit
+  - 堆叠插件
+  - 功能性插件
 ---
 
 ## RoseStacker -- 一个性能友好功能丰富的堆叠插件

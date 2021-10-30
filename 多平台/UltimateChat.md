@@ -1,8 +1,13 @@
 ---
-title: ⑤ UltimateChat
+title: UltimateChat
 icon: mark
 category: 多平台插件
-tags: 聊天
+tags:
+  - Bukkit
+  - Sponge
+  - Bungee
+  - Velocity  
+  - 聊天
 ---
 
 ## UltimateChat -- 多平台支持的json聊天插件。

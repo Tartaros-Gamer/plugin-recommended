@@ -1,8 +1,12 @@
 ---
-title: ② FastAsyncWorldEdit
+title: FastAsyncWorldEdit
 icon: linter
 category: Bukkit 系
-tags: 世界编辑
+tags:
+  - Bukkit
+  - Sponge
+  - 优化  
+  - 世界编辑
 ---
 ## FastAsyncWorldEdit -- 针对 WorldEdit 的高性能改良
 

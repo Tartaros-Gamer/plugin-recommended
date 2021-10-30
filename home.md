@@ -10,30 +10,19 @@ tags: 信息
 [mcmod]: ./public/mcmod.svg
 [spigot]: ./public/spigotmclink.svg
 [jenkins]: ./public/jenkins.svg
-<style>
-table th:first-of-type {
-    width: 30%;
-}
-table th:nth-of-type(2) {
-    width: 25%;
-}
-table th:nth-of-type(3) {
-    width: 18%;
-}
-table th:nth-of-type(4) {
-    width: 30%;
-}
-</style>
+
 
 ## 须知
 - 这是插件推荐的网页版，源仓库 [plugin-recommended](https://github.com/Tartaros-Gamer/plugin-recommended)。 
-- 想知道这个是什么吗？请阅读 [项目简介](./introduction)
-- 投稿请阅读 [投稿](./contribution)，里面详细介绍了如何参与。
+- 想知道这个是什么吗？请阅读 [项目简介](../introduction)
+- 投稿请阅读 [投稿](../contribution)，里面详细介绍了如何参与。
 - 就这样啦，下面是目录。
 
 ## 目录
-- 带 ✅ 的是被 MCBBS 插件版收录的，点 ✅ 能跳转到插件推荐贴的对应楼层。
-
+:::: info
+带 ✅ 的是被 MCBBS 插件版收录的，点 ✅ 能跳转到插件推荐贴的对应楼层。
+<br>觉得大目录太麻烦？按 [类别](../category) 或 [标签](../tag) 检索插件。
+::::
 ### 多平台插件
 插件名称 | 链接 | 平台 | 简介 
 ------------- | ------------- | ------------- | -------------

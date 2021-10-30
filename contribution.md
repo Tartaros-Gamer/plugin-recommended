@@ -4,6 +4,9 @@ icon: alias
 tags: 信息
 ---
 
+:::: info
+投稿前请通过 [Github Issue](https://github.com/Tartaros-Gamer/plugin-recommended/issues/new?template=review-request-zhhans.yml) 先提交一个表单，以供预审核，避免您写的东西功归一溃。
+::::
 - 投稿请在仓库 [plugin-recommended](https://github.com/Tartaros-Gamer/plugin-recommended) 提交 PR，如果您不会用，那也可以丢到[我们邮箱](mailto:mctartaros@outlook.fun)。
 - 支持 MarkDown，写得好的话可以帮你转成 bbcode。
 

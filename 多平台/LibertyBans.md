@@ -1,8 +1,12 @@
 ---
-title: ③ LibertyBans
+title: LibertyBans
 icon: build
 category: 多平台插件
-tags: 封禁
+tags:
+  - Bukkit
+  - Bungee
+  - Velocity  
+  - 封禁插件
 ---
 
 ## LibertyBans -- **封禁插件**，简约设计，性能优异，轻量高效。

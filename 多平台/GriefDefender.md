@@ -1,4 +1,14 @@
-### 多平台插件推荐 ① [GriefDefender] -- 支持混合端且功能丰富强大的领地插件。
+---
+title: GriefDefender
+icon: tool
+category: 多平台插件
+tags: 
+  - Bukkit
+  - Sponge
+  - 领地
+---
+
+### 多平台插件推荐 [GriefDefender] -- 支持混合端且功能丰富强大的领地插件。
 
 **Bukkit & Sponge | 开源 | 付费获取支持 | 内置汉化 | 开发者: bloodshot**
 

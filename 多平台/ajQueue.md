@@ -1,8 +1,12 @@
 ---
-title: ⑥ ajQueue
+title: ajQueue
 icon: proxy
 category: 多平台插件
-tags: 排队
+tags: 
+  - Bungee
+  - Velocity
+  - Bukkit
+  - 排队
 ---
 
 ## ajQueue -- 为群组服添加类队列的功能。

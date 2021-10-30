@@ -40,7 +40,13 @@ module.exports = config({
 
     sidebar: require("../sidebar"),
 
-    blog: false,
+    blog: {
+      links: {
+        Github: "https://github.com/Tartaros-Gamer/mc_plugin_rc",
+        Email: "mailto:mctartaros@outlook.com",
+      },
+    },
+
 
     footer: {
       display: true,
@@ -54,6 +60,7 @@ module.exports = config({
     },
 
     git: {
+      contributor: true,
       timezone: "Asia/Shanghai",
     },
 

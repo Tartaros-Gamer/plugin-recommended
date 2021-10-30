@@ -14,6 +14,10 @@ action:
     link: https://github.com/Tartaros-Gamer/plugin-recommended
 
 features:
+  - title: 通过功能平台tag分类 ✨
+    details: 快速检索
+    link: ./tag/
+	
   - title: 投稿通道 📝
     details: 向我们的仓库提交 PR，经审定后将有机会出现在 mcbbs
     link: ./contribution
@@ -25,6 +29,8 @@ features:
   - title: 社区驱动 ℹ
     details: 您的 commit 会自动被这些页面识别，您的贡献会被记录在案，author 的首字段也允许添加作者。
     link: https://vuepress-theme-hope.github.io/zh/guide/layout/page/
+	
+  
 copyrightText: false
 footer: MIT Licensed | Copyright © Tartaros
 ---
