@@ -3,7 +3,8 @@
 <br>
 <h1>MC 插件推荐</h1>
 
-**为优质内容创作者创流量，为玩家用户谋体验，共享构建，延续并丰富游戏的共享精神。**
+**为优质内容创作者创流量，为玩家用户谋体验，共享开放，构建良好开发社区，延展游戏的共享精神。**
+<br>
 这里的按钮可点
 <br>[![网页]](https://tartaros.fun/plugin-recommended)
 [![MCBBS]](https://www.mcbbs.net/thread-1265727-1-1.html)
@@ -14,8 +15,8 @@
 </div>
 
 ## 简介
-- 想知道这个是什么吗？请阅读 [项目简介](../introduction)
-- 投稿请阅读 [投稿](../contribution)，里面详细介绍了如何参与。
+- 想知道这个是什么吗？请阅读 [项目简介](https://tartaros.fun/plugin-recommended/introduction)
+- 投稿请阅读 [投稿](https://tartaros.fun/plugin-recommended/contribution)，里面详细介绍了如何参与。
 
 <!-- Shields -->
 [提交时间]:https://img.shields.io/github/last-commit/tartaros-gamer/plugin-recommended?label=%E6%9B%B4%E6%96%B0%E4%BA%8E&style=flat-square
