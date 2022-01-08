@@ -29,6 +29,9 @@ module.exports = config({
       lang: "zh-CN",
     },
   },
+  plugins:  [
+    'fulltext-search',
+  ],
 
   themeConfig: {
     logo: "/logo.png",
@@ -36,9 +39,9 @@ module.exports = config({
 
     repo: "https://github.com/Tartaros-Gamer/plugin-recommended",
 
-    nav: require("../nav"),
+    nav: require("../_nav"),
 
-    sidebar: require("../sidebar"),
+    sidebar: require("../_sidebar"),
 
     blog: {
       links: {

@@ -17,6 +17,10 @@ features:
   - title: 通过功能平台tag分类 ✨
     details: 快速检索
     link: https://tartaros.fun/plugin-recommended/tag/
+    
+  - title: 预览列表
+    details: 速揽一些还没介绍的插件，就是咱的备忘录哒
+    link: https://tartaros.fun/plugin-recommended/list/
 	
   - title: 投稿通道 📝
     details: 向我们的仓库提交 PR，经审定后将有机会出现在 mcbbs
