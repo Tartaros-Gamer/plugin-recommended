@@ -47,3 +47,11 @@ tags: 信息
 - CreativeManager | 限制创造 | [![spigot]](https://www.spigotmc.org/resources/%E2%9A%A1-creativemanager-%E2%9A%A1-customizable-complete-control.75097/)
 - Insights | 限制红石实体等东西 | [![spigot]](https://www.spigotmc.org/resources/insights-super-configurable-region-limits-asynchronous-scans-1-18.56489/)
 - BlockProt | 锁箱子或各类容器，靠 NBT 存储 | [![spigot]](https://www.spigotmc.org/resources/blockprot.87829/)
+
+### 添加内容类
+- DeepStrageplus | 类 AE 的存储插件 | [![spigot]](https://www.spigotmc.org/resources/74145/)
+- Nova | 仿 IC 的工业插件 | [![spigot]](https://www.spigotmc.org/resources/93648/)
+- 
+
+### 趣味游戏
+- Notrisdefect | 俄罗斯方块 | [![spigot]](https://www.spigotmc.org/resources/84269/)
