@@ -3,7 +3,7 @@
   <id>https://tartaros.fun/plugin-recommended/plugin-recommended/</id>
   <title>Minecraft 插件推荐</title>
   <subtitle>Minecraft 插件推荐</subtitle>
-  <updated>2022-01-13T15:20:18.766Z</updated>
+  <updated>2022-02-11T01:06:01.095Z</updated>
   <generator>@mr-hope/vuepress-plugin-feed</generator>
   <link rel="self" href="https://tartaros.fun/plugin-recommended/plugin-recommended/atom.xml"/>
   <link rel="alternate" href="https://tartaros.fun/plugin-recommended/plugin-recommended/"/>
@@ -13,12 +13,12 @@
     <title type="html">FastAsyncWorldEdit</title>
     <id>https://tartaros.fun/plugin-recommended/plugin-recommended/Bukkit/FastAsyncWorldEdit/</id>
     <link href="https://tartaros.fun/plugin-recommended/plugin-recommended/Bukkit/FastAsyncWorldEdit/"/>
-    <updated>2022-01-13T15:19:26.000Z</updated>
+    <updated>2022-02-11T01:04:59.000Z</updated>
     <content type="html"><![CDATA[<h2 id="fastasyncworldedit-针对-worldedit-的高性能改良"> FastAsyncWorldEdit -- 针对 WorldEdit 的高性能改良</h2>
 <p><strong>Bukkit&amp;Sponge | 开源 | 免费 | 内置汉化 | 开发者: IntellectualSites</strong></p>
 <ul>
-<li>支持版本：<img src="https://img.shields.io/spiget/tested-versions/13932?label=Bukkit" alt="Bukkit" /> Sponge(1.12.2)</li>
-<li>社区评价：<img src="https://img.shields.io/spiget/rating/13932?label=Spigot 评分&style=flat-square" alt="Spiget 评分" /> <img src="https://img.shields.io/github/stars/IntellectualSites/FastAsyncWorldEdit?label=GitHub stars&style=flat-square" alt="GitHub stars" /></li>
+<li>支持版本：<img src="https://img.shields.io/spiget/tested-versions/13932?label=Bukkit" alt="Bukkit" loading="lazy"> Sponge(1.12.2)</li>
+<li>社区评价：<img src="https://img.shields.io/spiget/rating/13932?label=Spigot 评分&amp;style=flat-square" alt="Spiget 评分" loading="lazy"> <img src="https://img.shields.io/github/stars/IntellectualSites/FastAsyncWorldEdit?label=GitHub stars&amp;style=flat-square" alt="GitHub stars" loading="lazy"></li>
 </ul>
 <h3 id="链接"> 链接：</h3>
 <p><a href="https://intellectualsites.github.io/download/fawe.html" target="_blank" rel="noopener noreferrer">下载方式</a>
@@ -39,21 +39,18 @@
 <p>信息共享[LogBlock]</p>
 ]]></content>
     <category term="Bukkit 系"/>
-    <contributor>
-      <name/>
-    </contributor>
-    <published>2022-01-13T15:19:26.000Z</published>
+    <published>2022-02-11T01:04:59.000Z</published>
   </entry>
   <entry>
     <title type="html">RoseStacker</title>
     <id>https://tartaros.fun/plugin-recommended/plugin-recommended/Bukkit/RoseStacker/</id>
     <link href="https://tartaros.fun/plugin-recommended/plugin-recommended/Bukkit/RoseStacker/"/>
-    <updated>2022-01-13T15:19:26.000Z</updated>
+    <updated>2022-02-11T01:04:59.000Z</updated>
     <content type="html"><![CDATA[<h2 id="rosestacker-一个性能友好功能丰富的堆叠插件"> RoseStacker -- 一个性能友好功能丰富的堆叠插件</h2>
 <p><strong>Bukkit | 开源 | 免费 | 内置汉化 | 开发者：Rosewood-Development</strong></p>
 <ul>
-<li>支持版本：<img src="https://img.shields.io/spiget/tested-versions/82729?label=Bukkit" alt="Bukkit" /></li>
-<li>社区评价：<img src="https://img.shields.io/spiget/rating/82729?label=Spigot 评分&style=flat-square" alt="Spiget 评分" /> <img src="https://img.shields.io/github/stars/Rosewood-Development/RoseStacker?label=GitHub stars&style=flat-square" alt="GitHub stars" /></li>
+<li>支持版本：<img src="https://img.shields.io/spiget/tested-versions/82729?label=Bukkit" alt="Bukkit" loading="lazy"></li>
+<li>社区评价：<img src="https://img.shields.io/spiget/rating/82729?label=Spigot 评分&amp;style=flat-square" alt="Spiget 评分" loading="lazy"> <img src="https://img.shields.io/github/stars/Rosewood-Development/RoseStacker?label=GitHub stars&amp;style=flat-square" alt="GitHub stars" loading="lazy"></li>
 </ul>
 <h3 id="链接"> 链接：</h3>
 <p><a href="https://www.spigotmc.org/resources/rosestacker.82729/" target="_blank" rel="noopener noreferrer">Spigot</a> | <a href="https://github.com/Rosewood-Development/RoseStacker" target="_blank" rel="noopener noreferrer">Github</a></p>
@@ -70,26 +67,20 @@
 <p>迁移器支持[ WildStacker，UltimateStacker，EpicSpawners，StackMob]</p>
 ]]></content>
     <category term="Bukkit 系"/>
-    <contributor>
-      <name/>
-    </contributor>
-    <published>2022-01-13T15:19:26.000Z</published>
+    <published>2022-02-11T01:04:59.000Z</published>
   </entry>
   <entry>
     <title type="html">MC 插件推荐</title>
     <id>https://tartaros.fun/plugin-recommended/plugin-recommended/</id>
     <link href="https://tartaros.fun/plugin-recommended/plugin-recommended/"/>
-    <updated>2022-01-13T15:19:26.000Z</updated>
-    <contributor>
-      <name/>
-    </contributor>
-    <published>2022-01-13T15:19:26.000Z</published>
+    <updated>2022-02-11T01:04:59.000Z</updated>
+    <published>2022-02-11T01:04:59.000Z</published>
   </entry>
   <entry>
     <title type="html">投稿指北</title>
     <id>https://tartaros.fun/plugin-recommended/plugin-recommended/contribution/</id>
     <link href="https://tartaros.fun/plugin-recommended/plugin-recommended/contribution/"/>
-    <updated>2022-01-13T15:19:26.000Z</updated>
+    <updated>2022-02-11T01:04:59.000Z</updated>
     <content type="html"><![CDATA[<div><p>相关信息</p>
 <p>投稿前请通过 <a href="https://github.com/Tartaros-Gamer/plugin-recommended/issues/new?template=review-request-zhhans.yml" target="_blank" rel="noopener noreferrer">Github Issue</a> 先提交一个表单，以供预审核，避免您写的东西功归一溃。</p>
 </div>
@@ -151,16 +142,13 @@
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br></div></div></CodeGroupItem>
 </CodeGroup>
 ]]></content>
-    <contributor>
-      <name/>
-    </contributor>
-    <published>2022-01-13T15:19:26.000Z</published>
+    <published>2022-02-11T01:04:59.000Z</published>
   </entry>
   <entry>
     <title type="html">目录</title>
     <id>https://tartaros.fun/plugin-recommended/plugin-recommended/home/</id>
     <link href="https://tartaros.fun/plugin-recommended/plugin-recommended/home/"/>
-    <updated>2022-01-13T15:19:26.000Z</updated>
+    <updated>2022-02-11T01:04:59.000Z</updated>
     <content type="html"><![CDATA[<h2 id="须知"> 须知</h2>
 <ul>
 <li>这是插件推荐的网页版，源仓库 <a href="https://github.com/Tartaros-Gamer/plugin-recommended" target="_blank" rel="noopener noreferrer">plugin-recommended</a>。</li>
@@ -186,44 +174,44 @@
 <tbody>
 <tr>
 <td><a href="https://www.mcbbs.net/forum.php?mod=redirect&amp;goto=findpost&amp;ptid=1265727&amp;pid=23546408" target="_blank" rel="noopener noreferrer">✅</a><a href="../%E5%A4%9A%E5%B9%B3%E5%8F%B0/GriefDefender"><strong>GriefDefender</strong></a></td>
-<td><a href="https://www.spigotmc.org/resources/68900/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" /></a> <a href="https://github.com/bloodmc/GriefDefender" target="_blank" rel="noopener noreferrer"><img src="./public/github.svg" alt="gh" /></a></td>
-<td><img src="https://img.shields.io/spiget/tested-versions/68900?label=Bukkit&style=flat-square" alt="最新" />Sponge 1.12.2</td>
+<td><a href="https://www.spigotmc.org/resources/68900/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" loading="lazy"></a> <a href="https://github.com/bloodmc/GriefDefender" target="_blank" rel="noopener noreferrer"><img src="./public/github.svg" alt="gh" loading="lazy"></a></td>
+<td><img src="https://img.shields.io/spiget/tested-versions/68900?label=Bukkit&amp;style=flat-square" alt="最新" loading="lazy">Sponge 1.12.2</td>
 <td><strong>领地插件</strong>，全UI操作、2D/3D圈地模式、领地方块、情境定义、行为包装等</td>
 </tr>
 <tr>
 <td><a href="../%E5%A4%9A%E5%B9%B3%E5%8F%B0/Chunky"><strong>Chunky</strong></a></td>
-<td><a href="https://ci.codemc.io/view/Author/job/pop4959/job/Chunky/" target="_blank" rel="noopener noreferrer"><img src="./public/jenkins.svg" alt="jenkins" /></a> <a href="https://www.spigotmc.org/resources/chunky.81534/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" /></a> <a href="https://github.com/pop4959/Chunky" target="_blank" rel="noopener noreferrer"><img src="./public/github.svg" alt="gh" /></a></td>
-<td><img src="https://img.shields.io/spiget/tested-versions/81534?label=Bukkit" alt="Bukkit" /> Sponge Fabric Forge</td>
+<td><a href="https://ci.codemc.io/view/Author/job/pop4959/job/Chunky/" target="_blank" rel="noopener noreferrer"><img src="./public/jenkins.svg" alt="jenkins" loading="lazy"></a> <a href="https://www.spigotmc.org/resources/chunky.81534/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" loading="lazy"></a> <a href="https://github.com/pop4959/Chunky" target="_blank" rel="noopener noreferrer"><img src="./public/github.svg" alt="gh" loading="lazy"></a></td>
+<td><img src="https://img.shields.io/spiget/tested-versions/81534?label=Bukkit" alt="Bukkit" loading="lazy"> Sponge Fabric Forge</td>
 <td><strong>世界预生成插件</strong>，简约高效，功能丰富，支持多个不同的平台。</td>
 </tr>
 <tr>
 <td><a href="../%E5%A4%9A%E5%B9%B3%E5%8F%B0/LibertyBans"><strong>LibertyBans</strong></a></td>
-<td><a href="https://www.spigotmc.org/resources/libertybans.81063/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" /></a> <a href="https://github.com/A248/LibertyBans" target="_blank" rel="noopener noreferrer"><img src="./public/github.svg" alt="gh" /></a></td>
-<td><img src="https://img.shields.io/spiget/tested-versions/81063?label=Bukkit" alt="Bukkit" /> Bungge Velocity</td>
+<td><a href="https://www.spigotmc.org/resources/libertybans.81063/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" loading="lazy"></a> <a href="https://github.com/A248/LibertyBans" target="_blank" rel="noopener noreferrer"><img src="./public/github.svg" alt="gh" loading="lazy"></a></td>
+<td><img src="https://img.shields.io/spiget/tested-versions/81063?label=Bukkit" alt="Bukkit" loading="lazy"> Bungge Velocity</td>
 <td><strong>封禁插件</strong>，简约设计，性能优异，轻量高效。</td>
 </tr>
 <tr>
 <td><a href="../%E5%A4%9A%E5%B9%B3%E5%8F%B0/ServerUtils"><strong>ServerUtils</strong></a></td>
-<td><a href="https://www.spigotmc.org/resources/79599/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" /></a> <a href="https://github.com/FrankHeijden/ServerUtils" target="_blank" rel="noopener noreferrer"><img src="./public/github.svg" alt="gh" /></a></td>
-<td><img src="https://img.shields.io/spiget/tested-versions/79599?label=Bukkit" alt="Bukkit" /> Bungee Velocity</td>
+<td><a href="https://www.spigotmc.org/resources/79599/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" loading="lazy"></a> <a href="https://github.com/FrankHeijden/ServerUtils" target="_blank" rel="noopener noreferrer"><img src="./public/github.svg" alt="gh" loading="lazy"></a></td>
+<td><img src="https://img.shields.io/spiget/tested-versions/79599?label=Bukkit" alt="Bukkit" loading="lazy"> Bungee Velocity</td>
 <td><strong>插件管理</strong>，Plugman 理念的继承与延展。</td>
 </tr>
 <tr>
 <td><a href="../%E5%A4%9A%E5%B9%B3%E5%8F%B0/UltimateChat"><strong>UltimateChat</strong></a></td>
-<td><a href="http://host.areaz12server.net.br:8081/job/UltimateChat/" target="_blank" rel="noopener noreferrer"><img src="./public/jenkins.svg" alt="jenkins" /></a> <a href="https://github.com/FabioZumbi12/UltimateChat" target="_blank" rel="noopener noreferrer"><img src="./public/github.svg" alt="gh" /></a></td>
+<td><a href="http://host.areaz12server.net.br:8081/job/UltimateChat/" target="_blank" rel="noopener noreferrer"><img src="./public/jenkins.svg" alt="jenkins" loading="lazy"></a> <a href="https://github.com/FabioZumbi12/UltimateChat" target="_blank" rel="noopener noreferrer"><img src="./public/github.svg" alt="gh" loading="lazy"></a></td>
 <td>Bukkit Sponge Velocity</td>
 <td><strong>聊天插件</strong>，支持平台丰富，Json 支持，标签化设计友善。</td>
 </tr>
 <tr>
 <td><a href="../%E5%A4%9A%E5%B9%B3%E5%8F%B0/ajQueue"><strong>ajQueue</strong></a></td>
-<td><a href="https://www.spigotmc.org/resources/ajqueue.78266/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" /></a> <a href="https://gitlab.com/ajg0702/ajqueue" target="_blank" rel="noopener noreferrer"><img src="./public/gitlab.svg" alt="gl" /></a></td>
+<td><a href="https://www.spigotmc.org/resources/ajqueue.78266/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" loading="lazy"></a> <a href="https://gitlab.com/ajg0702/ajqueue" target="_blank" rel="noopener noreferrer"><img src="./public/gitlab.svg" alt="gl" loading="lazy"></a></td>
 <td>Bungge Velocity</td>
 <td><strong>群组排队插件</strong>，队列优先级，队列之间独立运行，同一玩家参与多个队列。</td>
 </tr>
 <tr>
 <td><a href="../%E5%A4%9A%E5%B9%B3%E5%8F%B0/Prism"><strong>Prism</strong></a></td>
-<td><a href="https://www.mcbbs.net/thread-1230654-1-1.html" target="_blank" rel="noopener noreferrer"><img src="./public/mcbbslink.svg" alt="mcbbs" /></a> <a href="https://www.spigotmc.org/resources/prism.75166/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" /></a> <a href="https://github.com/AddstarMC/Prism-Bukkit" target="_blank" rel="noopener noreferrer"><img src="./public/github.svg" alt="gh" /></a></td>
-<td><img src="https://img.shields.io/spiget/tested-versions/75166?label=Bukkit" alt="Bukkit" /> Sponge</td>
+<td><a href="https://www.mcbbs.net/thread-1230654-1-1.html" target="_blank" rel="noopener noreferrer"><img src="./public/mcbbslink.svg" alt="mcbbs" loading="lazy"></a> <a href="https://www.spigotmc.org/resources/prism.75166/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" loading="lazy"></a> <a href="https://github.com/AddstarMC/Prism-Bukkit" target="_blank" rel="noopener noreferrer"><img src="./public/github.svg" alt="gh" loading="lazy"></a></td>
+<td><img src="https://img.shields.io/spiget/tested-versions/75166?label=Bukkit" alt="Bukkit" loading="lazy"> Sponge</td>
 <td><strong>记录回滚插件</strong>，功能丰富，性能优异，用户友好。</td>
 </tr>
 </tbody>
@@ -241,29 +229,26 @@
 <tbody>
 <tr>
 <td><a href="../Bukkit/RoseStacker"><strong>RoseStacker</strong></a></td>
-<td><a href="https://www.spigotmc.org/resources/rosestacker.82729/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" /></a> <a href="https://github.com/Rosewood-Development/RoseStacker" target="_blank" rel="noopener noreferrer"><img src="./public/github.svg" alt="gh" /></a></td>
-<td><img src="https://img.shields.io/spiget/tested-versions/82729?label=Bukkit" alt="Bukkit" /></td>
+<td><a href="https://www.spigotmc.org/resources/rosestacker.82729/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" loading="lazy"></a> <a href="https://github.com/Rosewood-Development/RoseStacker" target="_blank" rel="noopener noreferrer"><img src="./public/github.svg" alt="gh" loading="lazy"></a></td>
+<td><img src="https://img.shields.io/spiget/tested-versions/82729?label=Bukkit" alt="Bukkit" loading="lazy"></td>
 <td><strong>堆叠插件</strong>，UI操作，堆叠种类丰富，隐藏Tag等。</td>
 </tr>
 <tr>
 <td><a href="../Bukkit/FastAsyncWorldEdit"><strong>FastAsyncWorldEdit</strong></a></td>
-<td><a href="https://ci.athion.net/" target="_blank" rel="noopener noreferrer"><img src="./public/jenkins.svg" alt="jenkins" /></a> <a href="https://www.spigotmc.org/resources/fast-async-worldedit.13932/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" /></a> <a href="https://github.com/IntellectualSites/FastAsyncWorldEdit" target="_blank" rel="noopener noreferrer"><img src="./public/github.svg" alt="gh" /></a></td>
-<td><img src="https://img.shields.io/spiget/tested-versions/13932?label=Bukkit" alt="Bukkit" /> Sponge(1.12.2)</td>
+<td><a href="https://ci.athion.net/" target="_blank" rel="noopener noreferrer"><img src="./public/jenkins.svg" alt="jenkins" loading="lazy"></a> <a href="https://www.spigotmc.org/resources/fast-async-worldedit.13932/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" loading="lazy"></a> <a href="https://github.com/IntellectualSites/FastAsyncWorldEdit" target="_blank" rel="noopener noreferrer"><img src="./public/github.svg" alt="gh" loading="lazy"></a></td>
+<td><img src="https://img.shields.io/spiget/tested-versions/13932?label=Bukkit" alt="Bukkit" loading="lazy"> Sponge(1.12.2)</td>
 <td>针对 WorldEdit 的高性能改良。</td>
 </tr>
 </tbody>
 </table>
 ]]></content>
-    <contributor>
-      <name/>
-    </contributor>
-    <published>2022-01-13T15:19:26.000Z</published>
+    <published>2022-02-11T01:04:59.000Z</published>
   </entry>
   <entry>
     <title type="html">项目介绍</title>
     <id>https://tartaros.fun/plugin-recommended/plugin-recommended/introduction/</id>
     <link href="https://tartaros.fun/plugin-recommended/plugin-recommended/introduction/"/>
-    <updated>2022-01-13T15:19:26.000Z</updated>
+    <updated>2022-02-11T01:04:59.000Z</updated>
     <content type="html"><![CDATA[<h3 id="简介"> 简介</h3>
 <p>Minecraft 优质插件推荐 (以下简称 &quot;插件推荐&quot;) 是社区发起并由插件版收录的公益项目，指向国内用户推送一些经过实际使用并严格挑选的优质插件，以促进 MCBBS 插件板氛围的良性化发展。</p>
 <p>插件推荐收录范围十分广泛且部分插件站内可能不会有搬运贴或详尽的介绍与使用教程，因此阅读者需具备一定的英语水平和相关知识。</p>
@@ -282,80 +267,84 @@
 <li><input type="checkbox"  disabled="disabled" id="task-item-2"><label for="task-item-2"> 构建更合理的组织架构，让更多人参与其中</label></li>
 </ul>
 ]]></content>
-    <contributor>
-      <name/>
-    </contributor>
-    <published>2022-01-13T15:19:26.000Z</published>
+    <published>2022-02-11T01:04:59.000Z</published>
   </entry>
   <entry>
     <title type="html">备忘录</title>
     <id>https://tartaros.fun/plugin-recommended/plugin-recommended/list/</id>
     <link href="https://tartaros.fun/plugin-recommended/plugin-recommended/list/"/>
-    <updated>2022-01-13T15:19:26.000Z</updated>
+    <updated>2022-02-11T01:04:59.000Z</updated>
     <content type="html"><![CDATA[<h2 id="一些杂项"> 一些杂项</h2>
 <p>为了避免忘记自己打算写些什么，简单的记录看到过的插件。</p>
 <ul>
-<li>Walk in the Park | 动态跑酷 | <a href="https://www.spigotmc.org/resources/walk-in-the-park-%E2%96%B6-infinite-generating-parkour-1-16-x-1-18-x.87226/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" /></a></li>
-<li>Rankup | 晋升插件 | <a href="https://www.spigotmc.org/resources/rankup.76964/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" /></a></li>
-<li>Server Tutorial Plus | 自己动手实现向导 | <a href="https://www.spigotmc.org/resources/server-tutorial-plus.37741/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" /></a></li>
-<li>PlayerPaticles | 粒子效果插件 | <a href="https://www.spigotmc.org/resources/playerparticles.40261/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" /></a></li>
-<li>Aurora | 另一个粒子插件 | <a href="https://www.spigotmc.org/resources/%E2%98%84%EF%B8%8Faurora%E2%98%84%EF%B8%8F-ambient-particle-display-customisable-per-biome.89399/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" /></a></li>
-<li>Deadly Disasters | 花里花哨的灾难插件 | <a href="https://www.spigotmc.org/resources/deadly-disasters.90806/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" /></a></li>
-<li>LockLogin | 登录插件 | <a href="https://www.spigotmc.org/resources/gsa-locklogin.75156/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" /></a></li>
+<li>Walk in the Park | 动态跑酷 | <a href="https://www.spigotmc.org/resources/walk-in-the-park-%E2%96%B6-infinite-generating-parkour-1-16-x-1-18-x.87226/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" loading="lazy"></a></li>
+<li>Rankup | 晋升插件 | <a href="https://www.spigotmc.org/resources/rankup.76964/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" loading="lazy"></a></li>
+<li>Server Tutorial Plus | 自己动手实现向导 | <a href="https://www.spigotmc.org/resources/server-tutorial-plus.37741/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" loading="lazy"></a></li>
+<li>PlayerPaticles | 粒子效果插件 | <a href="https://www.spigotmc.org/resources/playerparticles.40261/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" loading="lazy"></a></li>
+<li>Aurora | 另一个粒子插件 | <a href="https://www.spigotmc.org/resources/%E2%98%84%EF%B8%8Faurora%E2%98%84%EF%B8%8F-ambient-particle-display-customisable-per-biome.89399/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" loading="lazy"></a></li>
+<li>Deadly Disasters | 花里花哨的灾难插件 | <a href="https://www.spigotmc.org/resources/deadly-disasters.90806/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" loading="lazy"></a></li>
+<li>LockLogin | 登录插件 | <a href="https://www.spigotmc.org/resources/gsa-locklogin.75156/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" loading="lazy"></a></li>
+<li>Graves | 墓碑哦 | <a href="https://www.spigotmc.org/resources/graves.74208/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" loading="lazy"></a></li>
+<li>CommandSync | 命令同步 | <a href="https://www.spigotmc.org/resources/commandsync.52093/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" loading="lazy"></a></li>
 </ul>
 <h3 id="qol-提升游戏体验型"> QoL 提升游戏体验型</h3>
 <ul>
-<li>BestTools | 自动切换工具 | <a href="https://www.spigotmc.org/resources/besttools.81490/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" /></a></li>
-<li>SwapHotBar | 快速切换物品栏 | <a href="https://www.spigotmc.org/resources/swaphotbar.94333/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" /></a></li>
-<li>ChestCleaner | 箱子整理 | <a href="https://www.spigotmc.org/resources/chestcleaner-sorting-plugin-api.40313/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" /></a></li>
-<li>Cartographer 2 | 插件实现小地图功能，覆盖层 | <a href="https://www.spigotmc.org/resources/cartographer-2-1-8-9-1-18-1-the-best-minimap-plugin-for-bukkit.46922/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" /></a></li>
-<li>Treeassist | 自动补种树 | <a href="https://www.spigotmc.org/resources/treeassist.67436/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" /></a></li>
+<li>BestTools | 自动切换工具 | <a href="https://www.spigotmc.org/resources/besttools.81490/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" loading="lazy"></a></li>
+<li>SwapHotBar | 快速切换物品栏 | <a href="https://www.spigotmc.org/resources/swaphotbar.94333/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" loading="lazy"></a></li>
+<li>ChestCleaner | 箱子整理 | <a href="https://www.spigotmc.org/resources/chestcleaner-sorting-plugin-api.40313/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" loading="lazy"></a></li>
+<li>Cartographer 2 | 插件实现小地图功能，覆盖层 | <a href="https://www.spigotmc.org/resources/cartographer-2-1-8-9-1-18-1-the-best-minimap-plugin-for-bukkit.46922/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" loading="lazy"></a></li>
+<li>Treeassist | 自动补种树 | <a href="https://www.spigotmc.org/resources/treeassist.67436/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" loading="lazy"></a></li>
+<li>vane | 纯净微调 | <a href="https://github.com/oddlama/vane" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" loading="lazy"></a></li>
+<li>SimplePortalsSpawn | 地狱门机制微调 | <a href="https://www.spigotmc.org/resources/78775/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" loading="lazy"></a></li>
 </ul>
 <h3 id="传送类"> 传送类</h3>
 <ul>
-<li>Wuufu's Waygates | 传送门 | <a href="https://www.spigotmc.org/resources/wuufus-waygates-1-13-1-18.80094/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" /></a></li>
-<li>Simple Portals | 进入指定区域传送 | <a href="https://www.spigotmc.org/resources/%E2%8D%9F-simple-portals-%E2%8D%9F-effective-regional-portals-bungeecord-compatible.56772/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" /></a></li>
-<li>HyperDrive | Warp/RTP/TPA 各种东西 | <a href="https://www.spigotmc.org/resources/%E2%96%BAhyperdrive-advanced-teleportation-plugin-%E2%96%BA.17184/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" /></a></li>
-<li>RTP | 随机传送 | <a href="https://www.spigotmc.org/resources/rtp.94812/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" /></a></li>
+<li>Wuufu's Waygates | 传送门 | <a href="https://www.spigotmc.org/resources/wuufus-waygates-1-13-1-18.80094/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" loading="lazy"></a></li>
+<li>Simple Portals | 进入指定区域传送 | <a href="https://www.spigotmc.org/resources/%E2%8D%9F-simple-portals-%E2%8D%9F-effective-regional-portals-bungeecord-compatible.56772/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" loading="lazy"></a></li>
+<li>HyperDrive | Warp/RTP/TPA 各种东西 | <a href="https://www.spigotmc.org/resources/%E2%96%BAhyperdrive-advanced-teleportation-plugin-%E2%96%BA.17184/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" loading="lazy"></a></li>
+<li>RTP | 随机传送 | <a href="https://www.spigotmc.org/resources/rtp.94812/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" loading="lazy"></a></li>
 </ul>
 <h3 id="经济类"> 经济类</h3>
 <ul>
-<li>SS dynmic shop | 动态商店 | <a href="https://www.spigotmc.org/resources/ss-dynamic-shop-1-13-1-16.65603/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" /></a></li>
-<li>ishop | 易物插件 | <a href="https://www.spigotmc.org/resources/ishop.84555/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" /></a></li>
-<li>Minebay | 玩家自己的线上商店 | <a href="https://www.spigotmc.org/resources/minebay-player-auction-rooms-%E2%99%A3-1-8-1-18-%E2%99%A3-multilanguage-%E2%99%A3-gui-based-%E2%99%A3-tax.40919/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" /></a></li>
+<li>SS dynmic shop | 动态商店 | <a href="https://www.spigotmc.org/resources/ss-dynamic-shop-1-13-1-16.65603/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" loading="lazy"></a></li>
+<li>ishop | 易物插件 | <a href="https://www.spigotmc.org/resources/ishop.84555/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" loading="lazy"></a></li>
+<li>Minebay | 玩家自己的线上商店 | <a href="https://www.spigotmc.org/resources/minebay-player-auction-rooms-%E2%99%A3-1-8-1-18-%E2%99%A3-multilanguage-%E2%99%A3-gui-based-%E2%99%A3-tax.40919/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" loading="lazy"></a></li>
 </ul>
 <h3 id="管理-保护类"> 管理/保护类</h3>
 <ul>
-<li>CreativeManager | 限制创造 | <a href="https://www.spigotmc.org/resources/%E2%9A%A1-creativemanager-%E2%9A%A1-customizable-complete-control.75097/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" /></a></li>
-<li>Insights | 限制红石实体等东西 | <a href="https://www.spigotmc.org/resources/insights-super-configurable-region-limits-asynchronous-scans-1-18.56489/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" /></a></li>
-<li>BlockProt | 锁箱子或各类容器，靠 NBT 存储 | <a href="https://www.spigotmc.org/resources/blockprot.87829/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" /></a></li>
+<li>CreativeManager | 限制创造 | <a href="https://www.spigotmc.org/resources/%E2%9A%A1-creativemanager-%E2%9A%A1-customizable-complete-control.75097/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" loading="lazy"></a></li>
+<li>Insights | 限制红石实体等东西 | <a href="https://www.spigotmc.org/resources/insights-super-configurable-region-limits-asynchronous-scans-1-18.56489/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" loading="lazy"></a></li>
+<li>BlockProt | 锁箱子或各类容器，靠 NBT 存储 | <a href="https://www.spigotmc.org/resources/blockprot.87829/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" loading="lazy"></a></li>
+<li>Panilla | NBT 防护 | <a href="https://www.spigotmc.org/resources/panilla-prevent-hacked-items.65694/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" loading="lazy"></a></li>
+<li>CommandWhitelist | TAB/Command | <a href="https://www.spigotmc.org/resources/commandwhitelist-spigot-waterfall-velocity.81326/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" loading="lazy"></a></li>
 </ul>
 <h3 id="添加内容类"> 添加内容类</h3>
 <ul>
-<li>DeepStrageplus | 类 AE 的存储插件 | <a href="https://www.spigotmc.org/resources/74145/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" /></a></li>
-<li>Nova | 仿 IC 的工业插件 | <a href="https://www.spigotmc.org/resources/93648/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" /></a></li>
+<li>DeepStrageplus | 类 AE 的存储插件 | <a href="https://www.spigotmc.org/resources/74145/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" loading="lazy"></a></li>
+<li>Nova | 仿 IC 的工业插件 | <a href="https://www.spigotmc.org/resources/93648/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" loading="lazy"></a></li>
 <li></li>
+</ul>
+<h3 id="有趣功能"> 有趣功能</h3>
+<ul>
+<li>ListenMode | TLOU | <a href="https://www.spigotmc.org/resources/listenmode.99300/" target="_blank" rel="noopener noreferrer">![spigpt]</a></li>
 </ul>
 <h3 id="趣味游戏"> 趣味游戏</h3>
 <ul>
-<li>Notrisdefect | 俄罗斯方块 | <a href="https://www.spigotmc.org/resources/84269/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" /></a></li>
+<li>Notrisdefect | 俄罗斯方块 | <a href="https://www.spigotmc.org/resources/84269/" target="_blank" rel="noopener noreferrer"><img src="./public/spigotmclink.svg" alt="spigot" loading="lazy"></a></li>
 </ul>
 ]]></content>
-    <contributor>
-      <name/>
-    </contributor>
-    <published>2022-01-13T15:19:26.000Z</published>
+    <published>2022-02-11T01:04:59.000Z</published>
   </entry>
   <entry>
     <title type="html">Chunky</title>
     <id>https://tartaros.fun/plugin-recommended/plugin-recommended/%E5%A4%9A%E5%B9%B3%E5%8F%B0/Chunky/</id>
     <link href="https://tartaros.fun/plugin-recommended/plugin-recommended/%E5%A4%9A%E5%B9%B3%E5%8F%B0/Chunky/"/>
-    <updated>2022-01-13T15:19:26.000Z</updated>
+    <updated>2022-02-11T01:04:59.000Z</updated>
     <content type="html"><![CDATA[<h2 id="chunky-世界预生成插件-简单高效-功能合理-支持平台丰富。"> Chunky -- <strong>世界预生成插件</strong>，简单高效，功能合理，支持平台丰富。</h2>
 <p><strong>Bukkit &amp; Sponge &amp; Forge &amp; Fabric | 开源 | 免费 | 内置汉化 | 开发者：pop4959</strong></p>
 <ul>
-<li>支持版本：<img src="https://img.shields.io/spiget/tested-versions/81534?label=Bukkit" alt="Bukkit" /> Sponge (1.12.2/1.16-1.17) Fabric (1.16.5/1.17.1) Forge(1.16.5)</li>
-<li>社区评价：<img src="https://img.shields.io/spiget/rating/81534?label=Spigot 评分&style=flat-square" alt="Spiget 评分" /> <img src="https://img.shields.io/github/stars/pop4959/Chunky?label=GitHub stars&style=flat-square" alt="GitHub stars" /></li>
+<li>支持版本：<img src="https://img.shields.io/spiget/tested-versions/81534?label=Bukkit" alt="Bukkit" loading="lazy"> Sponge (1.12.2/1.16-1.17) Fabric (1.16.5/1.17.1) Forge(1.16.5)</li>
+<li>社区评价：<img src="https://img.shields.io/spiget/rating/81534?label=Spigot 评分&amp;style=flat-square" alt="Spiget 评分" loading="lazy"> <img src="https://img.shields.io/github/stars/pop4959/Chunky?label=GitHub stars&amp;style=flat-square" alt="GitHub stars" loading="lazy"></li>
 </ul>
 <h3 id="链接"> 链接</h3>
 <p><a href="https://www.spigotmc.org/resources/chunky.81534/" target="_blank" rel="noopener noreferrer">Spigot</a> | <a href="https://github.com/pop4959/Chunky" target="_blank" rel="noopener noreferrer">Github</a> | <a href="https://ci.codemc.io/view/Author/job/pop4959/job/Chunky/" target="_blank" rel="noopener noreferrer">CI</a> 在这里获取各种版本</p>
@@ -365,21 +354,18 @@
 <p>  可以说，在同类预生成插件中，它属于功能最全，支持平台最广，生成效率数一数二的佼佼者。</p>
 ]]></content>
     <category term="多平台插件"/>
-    <contributor>
-      <name/>
-    </contributor>
-    <published>2022-01-13T15:19:26.000Z</published>
+    <published>2022-02-11T01:04:59.000Z</published>
   </entry>
   <entry>
     <title type="html">GriefDefender</title>
     <id>https://tartaros.fun/plugin-recommended/plugin-recommended/%E5%A4%9A%E5%B9%B3%E5%8F%B0/GriefDefender/</id>
     <link href="https://tartaros.fun/plugin-recommended/plugin-recommended/%E5%A4%9A%E5%B9%B3%E5%8F%B0/GriefDefender/"/>
-    <updated>2022-01-13T15:19:26.000Z</updated>
+    <updated>2022-02-11T01:04:59.000Z</updated>
     <content type="html"><![CDATA[<h3 id="多平台插件推荐-griefdefender-支持混合端且功能丰富强大的领地插件。"> 多平台插件推荐 [GriefDefender] -- 支持混合端且功能丰富强大的领地插件。</h3>
 <p><strong>Bukkit &amp; Sponge | 开源 | 付费获取支持 | 内置汉化 | 开发者: bloodshot</strong></p>
 <ul>
-<li>支持版本：<img src="https://img.shields.io/spiget/tested-versions/68900?label=2.0以上&style=flat-square" alt="最新" /> Bukkit 1.8-1.16.5(2.0版本以前)  Sponge 1.12.2(全版本)</li>
-<li>社区评价：<img src="https://img.shields.io/spiget/rating/68900?label=Spigot 评分&style=flat-square" alt="Spiget 评分" />  | <img src="https://img.shields.io/github/stars/bloodmc/GriefDefender?label=Github 收藏&style=flat-square" alt="GitHub stars" /></li>
+<li>支持版本：<img src="https://img.shields.io/spiget/tested-versions/68900?label=2.0以上&amp;style=flat-square" alt="最新" loading="lazy"> Bukkit 1.8-1.16.5(2.0版本以前)  Sponge 1.12.2(全版本)</li>
+<li>社区评价：<img src="https://img.shields.io/spiget/rating/68900?label=Spigot 评分&amp;style=flat-square" alt="Spiget 评分" loading="lazy">  | <img src="https://img.shields.io/github/stars/bloodmc/GriefDefender?label=Github 收藏&amp;style=flat-square" alt="GitHub stars" loading="lazy"></li>
 </ul>
 <h4 id="链接"> 链接</h4>
 <p><a href="https://www.spigotmc.org/resources/68900/" target="_blank" rel="noopener noreferrer">Spigot</a> 请在此处购买支持，代购的应当给你 Discord 链接。
@@ -414,25 +400,22 @@
 <br>  我这里无法再赘述太多，它还支持同客户端mod CUI的协同来显示领地，唯一的不足就是 GD 必须依赖一个支持情境系统的插件来储存数据（到目前为止只支持 LuckPerms）。</li>
 </ul>
 <h4 id="演示"> 演示</h4>
-<p><img src="https://i.loli.net/2021/10/03/IguG1czZXjP7ke3.gif" alt="领地玩家.gif" />
-<img src="https://i.loli.net/2021/10/03/OmxSB8uT3tjvHfM.gif" alt="领地设置1.gif" /><img src="https://i.loli.net/2021/10/03/wd3XWgsEyhGHmM9.gif" alt="领地信息.gif" /></p>
+<p><img src="https://i.loli.net/2021/10/03/IguG1czZXjP7ke3.gif" alt="领地玩家.gif" loading="lazy">
+<img src="https://i.loli.net/2021/10/03/OmxSB8uT3tjvHfM.gif" alt="领地设置1.gif" loading="lazy"><img src="https://i.loli.net/2021/10/03/wd3XWgsEyhGHmM9.gif" alt="领地信息.gif" loading="lazy"></p>
 ]]></content>
     <category term="多平台插件"/>
-    <contributor>
-      <name/>
-    </contributor>
-    <published>2022-01-13T15:19:26.000Z</published>
+    <published>2022-02-11T01:04:59.000Z</published>
   </entry>
   <entry>
     <title type="html">LibertyBans</title>
     <id>https://tartaros.fun/plugin-recommended/plugin-recommended/%E5%A4%9A%E5%B9%B3%E5%8F%B0/LibertyBans/</id>
     <link href="https://tartaros.fun/plugin-recommended/plugin-recommended/%E5%A4%9A%E5%B9%B3%E5%8F%B0/LibertyBans/"/>
-    <updated>2022-01-13T15:19:26.000Z</updated>
+    <updated>2022-02-11T01:04:59.000Z</updated>
     <content type="html"><![CDATA[<h2 id="libertybans-封禁插件-简约设计-性能优异-轻量高效。"> LibertyBans -- <strong>封禁插件</strong>，简约设计，性能优异，轻量高效。</h2>
 <p><strong>Bukkit &amp; Bungee &amp; Velocty | 开源 | 免费 | 开发者：A248</strong></p>
 <ul>
-<li>支持版本：<img src="https://img.shields.io/spiget/tested-versions/81063?label=Bukkit" alt="Bukkit" /> Bungge Velocity(3.0及以上)&gt;</li>
-<li>社区评价：<img src="https://img.shields.io/spiget/rating/81063?label=Spigot 评分&style=flat-square" alt="Spiget 评分" /> <img src="https://img.shields.io/github/stars/A248/LibertyBans?label=GitHub stars&style=flat-square" alt="GitHub stars" /></li>
+<li>支持版本：<img src="https://img.shields.io/spiget/tested-versions/81063?label=Bukkit" alt="Bukkit" loading="lazy"> Bungge Velocity(3.0及以上)&gt;</li>
+<li>社区评价：<img src="https://img.shields.io/spiget/rating/81063?label=Spigot 评分&amp;style=flat-square" alt="Spiget 评分" loading="lazy"> <img src="https://img.shields.io/github/stars/A248/LibertyBans?label=GitHub stars&amp;style=flat-square" alt="GitHub stars" loading="lazy"></li>
 </ul>
 <h3 id="链接"> 链接：</h3>
 <p><a href="https://www.spigotmc.org/resources/libertybans.81063/" target="_blank" rel="noopener noreferrer">Spigot</a> | <a href="https://github.com/A248/LibertyBans" target="_blank" rel="noopener noreferrer">Github</a> | <a href="https://jenkins.hahota.net/job/LibertyBans/" target="_blank" rel="noopener noreferrer">CI</a></p>
@@ -442,21 +425,18 @@
 <p>  它目前支持 HyperSQL(本地存储) MySQL/MariaDB，Sponge 支持也在计划之中，唯一的不足是目前只能进行全局封禁，而无法实行对单个服务器的封禁，尽管这个功能在设计数据结构时已被实现。</p>
 ]]></content>
     <category term="多平台插件"/>
-    <contributor>
-      <name/>
-    </contributor>
-    <published>2022-01-13T15:19:26.000Z</published>
+    <published>2022-02-11T01:04:59.000Z</published>
   </entry>
   <entry>
     <title type="html">Prism</title>
     <id>https://tartaros.fun/plugin-recommended/plugin-recommended/%E5%A4%9A%E5%B9%B3%E5%8F%B0/Prism/</id>
     <link href="https://tartaros.fun/plugin-recommended/plugin-recommended/%E5%A4%9A%E5%B9%B3%E5%8F%B0/Prism/"/>
-    <updated>2022-01-13T15:19:26.000Z</updated>
+    <updated>2022-02-11T01:04:59.000Z</updated>
     <content type="html"><![CDATA[<h2 id="prism-历史久远的记录回滚插件。"> Prism -- 历史久远的记录回滚插件。</h2>
 <p><strong>Bukkit &amp; Sponge | 开源 | 免费 | 内置汉化 | 有搬运 | 开发者: viveleroi(原作者)/AddstarMC(维护者)</strong></p>
 <ul>
-<li>支持版本：<img src="https://img.shields.io/spiget/tested-versions/75166?label=Bukkit" alt="Bukkit" /> Bukkit 1.8-1.12.2(老版本，不受支持，建议用CoreProtect) Sponge 1.12.2(原作者版本)</li>
-<li>社区评价：<img src="https://img.shields.io/spiget/rating/75166?label=Spigot 评分&style=flat-square" alt="Spiget 评分" /> <img src="https://img.shields.io/github/stars/AddstarMC/Prism-Bukkit?label=GitHub stars&style=flat-square" alt="GitHub stars" /></li>
+<li>支持版本：<img src="https://img.shields.io/spiget/tested-versions/75166?label=Bukkit" alt="Bukkit" loading="lazy"> Bukkit 1.8-1.12.2(老版本，不受支持，建议用CoreProtect) Sponge 1.12.2(原作者版本)</li>
+<li>社区评价：<img src="https://img.shields.io/spiget/rating/75166?label=Spigot 评分&amp;style=flat-square" alt="Spiget 评分" loading="lazy"> <img src="https://img.shields.io/github/stars/AddstarMC/Prism-Bukkit?label=GitHub stars&amp;style=flat-square" alt="GitHub stars" loading="lazy"></li>
 </ul>
 <p>编者：ahdg</p>
 <h3 id="链接"> 链接</h3>
@@ -482,21 +462,18 @@
 它提供的搜索系统较为复杂，有着学习成本，但我相信它的功能值得你花上少量的时间。</p>
 ]]></content>
     <category term="多平台插件"/>
-    <contributor>
-      <name/>
-    </contributor>
-    <published>2022-01-13T15:19:26.000Z</published>
+    <published>2022-02-11T01:04:59.000Z</published>
   </entry>
   <entry>
     <title type="html">ServerUtils</title>
     <id>https://tartaros.fun/plugin-recommended/plugin-recommended/%E5%A4%9A%E5%B9%B3%E5%8F%B0/ServerUtils/</id>
     <link href="https://tartaros.fun/plugin-recommended/plugin-recommended/%E5%A4%9A%E5%B9%B3%E5%8F%B0/ServerUtils/"/>
-    <updated>2022-01-13T15:19:26.000Z</updated>
+    <updated>2022-02-11T01:04:59.000Z</updated>
     <content type="html"><![CDATA[<h2 id="serverutils-plugman-理念的继承与延展。"> ServerUtils -- Plugman 理念的继承与延展。</h2>
 <p><strong>Bukkit &amp; Bungee &amp; Velocity | 开源 | 免费 | 开发者：FrankHeijden</strong></p>
 <ul>
-<li>支持版本：<img src="https://img.shields.io/spiget/tested-versions/79599?label=Bukkit" alt="Bukkit" /> Bungee  Velocity (3.0及以上)</li>
-<li>社区评价：<img src="https://img.shields.io/spiget/rating/79599?label=Spigot 评分&style=flat-square" alt="Spiget 评分" /> <img src="https://img.shields.io/github/stars/FrankHeijden/ServerUtils?label=GitHub stars&style=flat-square" alt="GitHub stars" /></li>
+<li>支持版本：<img src="https://img.shields.io/spiget/tested-versions/79599?label=Bukkit" alt="Bukkit" loading="lazy"> Bungee  Velocity (3.0及以上)</li>
+<li>社区评价：<img src="https://img.shields.io/spiget/rating/79599?label=Spigot 评分&amp;style=flat-square" alt="Spiget 评分" loading="lazy"> <img src="https://img.shields.io/github/stars/FrankHeijden/ServerUtils?label=GitHub stars&amp;style=flat-square" alt="GitHub stars" loading="lazy"></li>
 </ul>
 <h3 id="链接"> 链接：</h3>
 <p><a href="https://www.spigotmc.org/resources/79599/" target="_blank" rel="noopener noreferrer">Spigot</a> | <a href="https://github.com/FrankHeijden/ServerUtils" target="_blank" rel="noopener noreferrer">Github</a></p>
@@ -506,21 +483,18 @@
 <p>  它也能重新加载自己，如果您想那么做的话。</p>
 ]]></content>
     <category term="多平台插件"/>
-    <contributor>
-      <name/>
-    </contributor>
-    <published>2022-01-13T15:19:26.000Z</published>
+    <published>2022-02-11T01:04:59.000Z</published>
   </entry>
   <entry>
     <title type="html">UltimateChat</title>
     <id>https://tartaros.fun/plugin-recommended/plugin-recommended/%E5%A4%9A%E5%B9%B3%E5%8F%B0/UltimateChat/</id>
     <link href="https://tartaros.fun/plugin-recommended/plugin-recommended/%E5%A4%9A%E5%B9%B3%E5%8F%B0/UltimateChat/"/>
-    <updated>2022-01-13T15:19:26.000Z</updated>
+    <updated>2022-02-11T01:04:59.000Z</updated>
     <content type="html"><![CDATA[<h2 id="ultimatechat-多平台支持的json聊天插件。"> UltimateChat -- 多平台支持的json聊天插件。</h2>
 <p><strong>Bukkit &amp; Sponge &amp; Bungee &amp; Velocity | 开源 | 免费 | 开发者：FabioZumbi12</strong></p>
 <ul>
 <li>支持版本：Bukkit (1.7-1.17) Sponge(API 5 6 7 8) Velocity (1.x.x)</li>
-<li>社区评价：<img src="https://img.shields.io/spiget/rating/23767?label=Spigot 评分&style=flat-square" alt="Spiget 评分" /> <img src="https://img.shields.io/ore/stars/ultimatechat?label=Sponge 收藏&style=flat-square" alt="Sponge" /> <img src="https://img.shields.io/github/stars/FabioZumbi12/UltimateChat?label=GitHub stars&style=flat-square" alt="Github Stars" /></li>
+<li>社区评价：<img src="https://img.shields.io/spiget/rating/23767?label=Spigot 评分&amp;style=flat-square" alt="Spiget 评分" loading="lazy"> <img src="https://img.shields.io/ore/stars/ultimatechat?label=Sponge 收藏&amp;style=flat-square" alt="Sponge" loading="lazy"> <img src="https://img.shields.io/github/stars/FabioZumbi12/UltimateChat?label=GitHub stars&amp;style=flat-square" alt="Github Stars" loading="lazy"></li>
 </ul>
 <h3 id="链接"> 链接：</h3>
 <p><a href="https://ore.spongepowered.org/FabioZumbi12/UltimateChat" target="_blank" rel="noopener noreferrer">Sponge Ore</a> | <a href="./hhttps://www.spigotmc.org/resources/ultimatechat-1-7-1-16.23767/">Spigot</a> | <a href="https://github.com/FabioZumbi12/UltimateChat" target="_blank" rel="noopener noreferrer">Github</a> | <a href="http://host.areaz12server.net.br:8081/job/UltimateChat/" target="_blank" rel="noopener noreferrer">CI</a></p>
@@ -530,21 +504,18 @@
 <p>  编者目前使用 InteractiveChat 来补足 UltimateChat 的不足，如对聊天内容正则替换，背包展示，@等功能。</p>
 ]]></content>
     <category term="多平台插件"/>
-    <contributor>
-      <name/>
-    </contributor>
-    <published>2022-01-13T15:19:26.000Z</published>
+    <published>2022-02-11T01:04:59.000Z</published>
   </entry>
   <entry>
     <title type="html">ajQueue</title>
     <id>https://tartaros.fun/plugin-recommended/plugin-recommended/%E5%A4%9A%E5%B9%B3%E5%8F%B0/ajQueue/</id>
     <link href="https://tartaros.fun/plugin-recommended/plugin-recommended/%E5%A4%9A%E5%B9%B3%E5%8F%B0/ajQueue/"/>
-    <updated>2022-01-13T15:19:26.000Z</updated>
+    <updated>2022-02-11T01:04:59.000Z</updated>
     <content type="html"><![CDATA[<h2 id="ajqueue-为群组服添加类队列的功能。"> ajQueue -- 为群组服添加类队列的功能。</h2>
 <p><strong>Bungge &amp; Velocity | 开源 | 付费获取支持 | 开发者：ajg0702</strong></p>
 <ul>
 <li>支持版本：Bungee  Velocity (3.0及以上)</li>
-<li>社区评价：<img src="https://img.shields.io/spiget/rating/78266?label=免费版&style=flat-square" alt="Free" /> <img src="https://img.shields.io/spiget/rating/79123?label=付费版&style=flat-square" alt="Premium" /></li>
+<li>社区评价：<img src="https://img.shields.io/spiget/rating/78266?label=免费版&amp;style=flat-square" alt="Free" loading="lazy"> <img src="https://img.shields.io/spiget/rating/79123?label=付费版&amp;style=flat-square" alt="Premium" loading="lazy"></li>
 </ul>
 <h3 id="链接"> 链接：</h3>
 <p><a href="https://www.spigotmc.org/resources/ajqueue.78266/" target="_blank" rel="noopener noreferrer">Spigot-免费</a> | <a href="https://www.spigotmc.org/resources/ajqueueplus.79123/" target="_blank" rel="noopener noreferrer">Spigot-付费</a> | <a href="https://gitlab.com/ajg0702/ajqueue" target="_blank" rel="noopener noreferrer">Gitlab</a></p>
@@ -554,16 +525,13 @@
 同时 ajQueue 能记录玩家排队的位置，在您指定的时间到达之前，玩家重返队列将不会重新排队，而同一个玩家能同时排进不同的队列，这也使它成为多镜像子服的无二选择。</p>
 ]]></content>
     <category term="多平台插件"/>
-    <contributor>
-      <name/>
-    </contributor>
-    <published>2022-01-13T15:19:26.000Z</published>
+    <published>2022-02-11T01:04:59.000Z</published>
   </entry>
   <entry>
     <title type="html">导言</title>
     <id>https://tartaros.fun/plugin-recommended/plugin-recommended/%E9%A1%B9%E7%9B%AE%E7%AE%80%E4%BB%8B/</id>
     <link href="https://tartaros.fun/plugin-recommended/plugin-recommended/%E9%A1%B9%E7%9B%AE%E7%AE%80%E4%BB%8B/"/>
-    <updated>2022-01-13T15:19:26.000Z</updated>
+    <updated>2022-02-11T01:04:59.000Z</updated>
     <content type="html"><![CDATA[<h3 id="导言"> 导言</h3>
 <hr>
 <p>面对浩如烟海的 Minecraft 插件社区，您是否曾举足无措，面对插件的选择无从下手？</p>
@@ -612,9 +580,6 @@ MailMe ② [完全付费] —— 一个功能多样的邮箱插件。</p>
 <p>Grim ② [开源 &amp; 付费支持] [全版本] —— 优质强大的开源反作弊。</p>
 <p>Hawk ③ [开源免费] [仅支持 1.7] —— 另一个开发历史久远的低版本反作弊。</p>
 ]]></content>
-    <contributor>
-      <name/>
-    </contributor>
-    <published>2022-01-13T15:19:26.000Z</published>
+    <published>2022-02-11T01:04:59.000Z</published>
   </entry>
 </feed>
