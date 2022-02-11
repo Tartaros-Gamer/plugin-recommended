@@ -22,7 +22,8 @@ tags: 信息
 - Aurora | 另一个粒子插件 | [![spigot]](https://www.spigotmc.org/resources/%E2%98%84%EF%B8%8Faurora%E2%98%84%EF%B8%8F-ambient-particle-display-customisable-per-biome.89399/)
 - Deadly Disasters | 花里花哨的灾难插件 | [![spigot]](https://www.spigotmc.org/resources/deadly-disasters.90806/)
 - LockLogin | 登录插件 | [![spigot]](https://www.spigotmc.org/resources/gsa-locklogin.75156/)
-
+- Graves | 墓碑哦 | [![spigot]](https://www.spigotmc.org/resources/graves.74208/)
+- CommandSync | 命令同步 | [![spigot]](https://www.spigotmc.org/resources/commandsync.52093/)
 
 ### QoL 提升游戏体验型
 - BestTools | 自动切换工具 | [![spigot]](https://www.spigotmc.org/resources/besttools.81490/)
@@ -30,6 +31,9 @@ tags: 信息
 - ChestCleaner | 箱子整理 | [![spigot]](https://www.spigotmc.org/resources/chestcleaner-sorting-plugin-api.40313/)
 - Cartographer 2 | 插件实现小地图功能，覆盖层 | [![spigot]](https://www.spigotmc.org/resources/cartographer-2-1-8-9-1-18-1-the-best-minimap-plugin-for-bukkit.46922/)
 - Treeassist | 自动补种树 | [![spigot]](https://www.spigotmc.org/resources/treeassist.67436/)
+- vane | 纯净微调 | [![spigot]](https://github.com/oddlama/vane)
+- SimplePortalsSpawn | 地狱门机制微调 | [![spigot]](https://www.spigotmc.org/resources/78775/)
+
 
 ### 传送类
 - Wuufu's Waygates | 传送门 | [![spigot]](https://www.spigotmc.org/resources/wuufus-waygates-1-13-1-18.80094/)
@@ -47,11 +51,17 @@ tags: 信息
 - CreativeManager | 限制创造 | [![spigot]](https://www.spigotmc.org/resources/%E2%9A%A1-creativemanager-%E2%9A%A1-customizable-complete-control.75097/)
 - Insights | 限制红石实体等东西 | [![spigot]](https://www.spigotmc.org/resources/insights-super-configurable-region-limits-asynchronous-scans-1-18.56489/)
 - BlockProt | 锁箱子或各类容器，靠 NBT 存储 | [![spigot]](https://www.spigotmc.org/resources/blockprot.87829/)
+- Panilla | NBT 防护 | [![spigot]](https://www.spigotmc.org/resources/panilla-prevent-hacked-items.65694/)
+- CommandWhitelist | TAB/Command | [![spigot]](https://www.spigotmc.org/resources/commandwhitelist-spigot-waterfall-velocity.81326/)
 
 ### 添加内容类
 - DeepStrageplus | 类 AE 的存储插件 | [![spigot]](https://www.spigotmc.org/resources/74145/)
 - Nova | 仿 IC 的工业插件 | [![spigot]](https://www.spigotmc.org/resources/93648/)
 - 
+
+### 有趣功能
+- ListenMode | TLOU | [![spigpt]](https://www.spigotmc.org/resources/listenmode.99300/)
+
 
 ### 趣味游戏
 - Notrisdefect | 俄罗斯方块 | [![spigot]](https://www.spigotmc.org/resources/84269/)

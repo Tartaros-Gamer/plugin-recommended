@@ -1,7 +1,7 @@
 module.exports = [
     { text: "主页", link: "/", icon: "home" },
     { text: "目录", link: "/home/", icon: "enum" },
-    { text: "备忘录", link: "/home/", icon: "write" },
+    { text: "备忘录", link: "/list/", icon: "write" },
     { text: "标签分类", link: "/tag/", icon: "tag" },
     { text: "投稿", link: "/contribution/", icon: "alias"},
     {
