@@ -23,7 +23,11 @@ tags: 信息
 - Deadly Disasters | 花里花哨的灾难插件 | [![spigot]](https://www.spigotmc.org/resources/deadly-disasters.90806/)
 - LockLogin | 登录插件 | [![spigot]](https://www.spigotmc.org/resources/gsa-locklogin.75156/)
 - Graves | 墓碑哦 | [![spigot]](https://www.spigotmc.org/resources/graves.74208/)
-- CommandSync | 命令同步 | [![spigot]](https://www.spigotmc.org/resources/commandsync.52093/)
+- Annoucement Plus | 公告插件 | [![spigot]](https://www.spigotmc.org/resources/announcer-plus-hex-rgb-placeholderapi-json-toast.81005/)
+
+### 反作弊
+- Grim | [![spigot]](https://www.spigotmc.org/resources/grim-anticheat.99923/)
+
 
 ### QoL 提升游戏体验型
 - BestTools | 自动切换工具 | [![spigot]](https://www.spigotmc.org/resources/besttools.81490/)
@@ -40,6 +44,8 @@ tags: 信息
 - Simple Portals | 进入指定区域传送 | [![spigot]](https://www.spigotmc.org/resources/%E2%8D%9F-simple-portals-%E2%8D%9F-effective-regional-portals-bungeecord-compatible.56772/)
 - HyperDrive | Warp/RTP/TPA 各种东西 | [![spigot]](https://www.spigotmc.org/resources/%E2%96%BAhyperdrive-advanced-teleportation-plugin-%E2%96%BA.17184/)
 - RTP | 随机传送 | [![spigot]](https://www.spigotmc.org/resources/rtp.94812/)
+- AdvancedTeleport | 各类传送 | [![spigot]](https://www.spigotmc.org/resources/advancedteleport.64139/)
+
 
 
 ### 经济类
@@ -65,3 +71,12 @@ tags: 信息
 
 ### 趣味游戏
 - Notrisdefect | 俄罗斯方块 | [![spigot]](https://www.spigotmc.org/resources/84269/)
+
+### 跨服管理
+- HuskySync | 跨服同步 | [![spigot]](https://www.spigotmc.org/resources/husksync-1-16-1-17-1-18-synchronize-player-inventories-data-cross-server.97144/)
+- CommandSync | 命令同步 | [![spigot]](https://www.spigotmc.org/resources/commandsync.52093/)
+- HuskyHome | 跨服家 | [![spigot]](https://www.spigotmc.org/resources/%E2%AD%90-huskhomes-1-16-1-17-1-18-%E2%AD%90-simple-intuitive-teleportation-suite-with-cross-server-support.83767/)
+- ServerSelector | 服务器选择 | [![spigot]](https://www.spigotmc.org/resources/serverselectorx-premium.63855/)
+- ajQueue | 队列 | [![spigot]](https://www.spigotmc.org/resources/ajqueue.78266/)
+- Protocolize | 群组数据包 | [![spigot]](https://www.spigotmc.org/resources/protocolize-protocollib-for-bungeecord-waterfall-velocity.63778/)
+
