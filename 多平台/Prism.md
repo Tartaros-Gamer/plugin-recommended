@@ -1,4 +1,15 @@
-### 多平台插件推荐 ⑦ [Prism] -- 远胜 CoreProtect 的记录回滚插件。
+---
+title: Prism
+icon: command
+category: 多平台插件
+tags:
+  - Bukkit
+  - Sponge
+  - 回滚  
+  - 服务器保护
+---
+
+## Prism -- 历史久远的记录回滚插件。
 
 **Bukkit & Sponge | 开源 | 免费 | 内置汉化 | 有搬运 | 开发者: viveleroi(原作者)/AddstarMC(维护者)**
 
@@ -7,7 +18,7 @@
 
 编者：ahdg
 
-#### 链接
+### 链接
 
 [Spigot](https://www.spigotmc.org/resources/prism.75166/) 后续维护者 Spigot 页面
 <br>[Github](https://github.com/AddstarMC/Prism-Bukkit) 后续维护者 Github 仓库
@@ -18,7 +29,7 @@
 
 ---
 
-#### 背景
+### 背景
 
 &emsp;&emsp;在 2016 年, Prism-Bukkit 因为 [Sponge 重写](https://github.com/prism/Prism) 而被弃坑. 不久之后, the AddstarMC team 分叉了这个项目, 
 用于他们自己的服务器并且从此之后一直在维护它。 伴随着 @viveleroi 的祝福, AddstarMC 现在已发布此插件到 SpigotMC 
@@ -28,7 +39,7 @@
 
 *注：Sponge 版的 Prism 已停止开发，但仍然可用。*
 
-#### 简介
+### 简介
 
 &emsp;&emsp;Prism 作为一款记录回滚插件，从诞生之初便是开源的。相较于 CoreProtect，Prism 有着极为丰富的功能与自定义程度，它允许您完全汉化所有文本和指令，追踪多达 77 种行为，强大的架构允许您在回滚与搜索时添加极为复杂的条件，而 bloodshot 早期更是为其添加 MCPC+ 等 Hybrid 的兼容。
   

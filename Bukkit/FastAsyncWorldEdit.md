@@ -1,13 +1,21 @@
-### 优化/功能性插件推荐 ② [FastAsyncWorldEdit] -- 针对 WorldEdit 的高性能改良
+---
+title: FastAsyncWorldEdit
+icon: linter
+category: Bukkit 系
+tags:
+  - Bukkit
+  - Sponge
+  - 优化  
+  - 世界编辑
+---
+## FastAsyncWorldEdit -- 针对 WorldEdit 的高性能改良
 
 **Bukkit&Sponge | 开源 | 免费 | 内置汉化 | 开发者: IntellectualSites**
 
 * 支持版本：![Bukkit](https://img.shields.io/spiget/tested-versions/13932?label=Bukkit) Sponge(1.12.2)
 * 社区评价：![Spiget 评分](https://img.shields.io/spiget/rating/13932?label=Spigot%20%E8%AF%84%E5%88%86&style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/IntellectualSites/FastAsyncWorldEdit?label=GitHub%20stars&style=flat-square)
 
-编者: ahdg
-
-#### 链接：
+### 链接：
 
 [下载方式](https://intellectualsites.github.io/download/fawe.html)
 <br>[Github](https://github.com/IntellectualSites/FastAsyncWorldEdit)
@@ -15,7 +23,7 @@
 <br>[CI](https://ci.athion.net/job/FastAsyncWorldEdit-1.17/)
 <br>[汉化](https://intellectualsites.crowdin.com/fastasyncworldedit)
 
-#### 简介:
+### 简介:
 
 &emsp;&emsp;FastAsyncWorldEdit 是一个对 WorldEdit 的性能改良版本。它确实很快，能在短短几秒内处理上
 千万级别的方块，但这也意味着它并不完全稳定，推荐在使用前进行备份。

@@ -1,17 +1,27 @@
-### 多平台插件推荐 ③ [ServerUtils] -- Plugman 理念的继承与延展。
+---
+title: ServerUtils
+icon: operate
+category: 多平台插件
+tags:
+  - Bukkit
+  - Bungee
+  - Velocity  
+  - 插件管理
+---
+
+## ServerUtils -- Plugman 理念的继承与延展。
 
 **Bukkit & Bungee & Velocity | 开源 | 免费 | 开发者：FrankHeijden**
 
 * 支持版本：![Bukkit](https://img.shields.io/spiget/tested-versions/79599?label=Bukkit) Bungee  Velocity (3.0及以上)
 * 社区评价：![Spiget 评分](https://img.shields.io/spiget/rating/79599?label=Spigot%20%E8%AF%84%E5%88%86&style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/FrankHeijden/ServerUtils?label=GitHub%20stars&style=flat-square)
 
-编者：ahdg
 
-#### 链接：
+### 链接：
 
 [Spigot](https://www.spigotmc.org/resources/79599/) | [Github](https://github.com/FrankHeijden/ServerUtils)
 
-#### 简介：
+### 简介：
 
 &emsp;&emsp;这是一个在运行时加载/卸载/监听您插件文件夹的插件，相较于我们熟知的 Plugman，它支持更多的平台，具有诸如热重载 Bukkit.yml command.yml 等功能，它还为 Bungee 系添加了一个简单又实用的插件列表。
 

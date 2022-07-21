@@ -1,36 +1,40 @@
-> 应坏黑先生的邀请，我们本着改善Minecraft 插件圈环境的理念，在此新开了一个面向国内用户的插件推荐专栏。
->
+---
+home: true
+icon: home
+title: MC 插件推荐
+heroImage: /logo.png
+heroText: Minecraft 插件推荐
+tagline: 源于社区，回归社区。
+action:
+  - text: 查看详细
+    link: /home
+    type: primary
 
-<br />
+  - text: 访问仓库
+    link: https://github.com/Tartaros-Gamer/plugin-recommended
 
-### 本专栏遵循以下原则
+features:
+  - title: 通过功能平台tag分类 ✨
+    details: 快速检索
+    link: https://tartaros.fun/plugin-recommended/tag/
+    
+  - title: 预览列表
+    details: 速揽一些还没介绍的插件，就是咱的备忘录哒
+    link: https://tartaros.fun/plugin-recommended/list/
+	
+  - title: 投稿通道 📝
+    details: 向我们的仓库提交 PR，经审定后将有机会出现在 mcbbs
+    link: https://tartaros.fun/plugin-recommended/contribution
 
-**开放性** --- 任何人都有可能参与到该栏目的投稿与建设。
+  - title: 分发许可 💬
+    details: 基于 Attribution-ShareAlike CC BY-SA 4.0 分发，投稿者和转载者必看。
+    link: https://creativecommons.org/licenses/by-sa/4.0/deed.zh
 
-**公益性** --- 所有这些码的字为的是建设更好的插件生态，所有关于本篇文本以 [*Attribution-ShareAlike CC BY-SA 4.0*](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) 进行分发，参与者应知悉许可证的内容。
-
-**公平性** --- 所有参与者应保证自己的文本客观公正，自心而发，不应带有偏颇的色彩。
-
-**透明性** --- 所有参与者将被公示，与本专栏推荐相关的行为应当被公开。
-
-**共享性** --- 本专栏应本着开放共享的精神进行编写，任何参与者不应夹带有关个人利益的文本。
-
-**广泛性** --- 本专栏推荐的宗旨是推送精品，任何有关Minecraft的插件都将包含其下，不限平台与主体。
-
-<br />
-
-**编写成员：ahdg, ModCraft, Arthas_Frost, 空城離歌**
-
-<br />
-
-### 须知
-
-本专栏的收罗范围十分广泛，且部分插件站内可能不会有搬运贴或详尽的介绍与使用教程，因此阅读者需具备一定的英语水平和相关知识，因缺乏相关知识而提出的问题我们不予回答。
-
-本专栏的目的及宗旨是推送精品，让创作者和使用者在信息上形成联系，为创作者的付出提供流量，为用户的体验提供便利，以此构建更为合理的插件生态与开发社区，帮助创作者有更好的空间发挥他们的创造力，丰富 Minecraft 社区不断延续的共享精神。
-
-### TODO
-
-* [ ] 完善投稿模板和相关参与者章程
-* [ ] 实现更合理的目录结构
-* [ ] 构建更合理的组织架构，让更多人参与其中
+  - title: 社区驱动 ℹ
+    details: 您的 commit 会自动被这些页面识别，您的贡献会被记录在案，author 的首字段也允许添加作者。
+    link: https://vuepress-theme-hope.github.io/zh/guide/layout/page/
+	
+  
+copyrightText: false
+footer: MIT Licensed | Copyright © Tartaros
+---
